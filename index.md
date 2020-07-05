@@ -14,7 +14,7 @@ Wenda Zhao is a Ph.D. candidate in Dynamic System Lab (DSL), University of Toron
 
 - At *University of Toronto*: teaching assistant for *AER 1217H, Development of Autonomous UAS*. Responsible for designing experiments, grading assignements and providing instructions for the final project.
 
-## Select Publications
+## Selected Publications
 
 - **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig (2020) Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress
 
