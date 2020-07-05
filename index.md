@@ -18,6 +18,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 
 - **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig (2020) Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress
 
+- **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu (2017) Fragility analysis and weak point identification of power system - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, vol. 10458, p. 104580G. International Society for Optics and Photonics
 ## Contact Information and Links
 
 - Contact Wenda: **wenda {dot} zhao {at} mail {dot} utoronto {dot} ca**
