@@ -12,7 +12,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 
 ## Teaching
 
-- At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS*][aer1217]. Responsible for designing experiments, grading assignements and providing instructions for the final project.
+- At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. Responsible for designing experiments, grading assignements and providing instructions for the final project.
 
 ## Selected Publications
 
