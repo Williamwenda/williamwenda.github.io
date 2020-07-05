@@ -8,7 +8,7 @@ Wenda Zhao is a Ph.D. candidate in Dynamic System Lab (DSL), University of Toron
 
 ## Current Projects
 
-- [Accurate indoor localization system for quadrotors with ultra-wideband (UWB)][uwb]
+- State estimation and machine learning: [Accurate indoor localization system for quadrotors with ultra-wideband (UWB)][uwb]
 
 ## Teaching
 
