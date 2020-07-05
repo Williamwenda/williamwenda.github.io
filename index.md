@@ -1,6 +1,6 @@
 ## Short Bio
 
-Wenda Zhao is a Ph.D. candidate in Dynamic System Lab (DSL), University of Toronto Institute for Aerospace Studies (UTIAS). He is also a Postgraduate Affiliated researcher at Vector Institute (Toronto, ON, Canada). He received a M.Sc. degree in Electrical & Computer Engineer (ECE) from Tongji University (Shanghai, China) in 2018. In 2016, he attended a summer exchange program in Robotics Technology at RWTH Aachen University (Aachen, Germany). 
+Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [Vector Institute][VI] (Toronto, ON, Canada). He received a M.Sc. degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended a summer exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
 
 ## Current Research
 
@@ -12,7 +12,7 @@ Wenda Zhao is a Ph.D. candidate in Dynamic System Lab (DSL), University of Toron
 
 ## Teaching
 
-- At *University of Toronto*: teaching assistant for *AER 1217H, Development of Autonomous UAS*. Responsible for designing experiments, grading assignements and providing instructions for the final project.
+- At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS*][aer1217]. Responsible for designing experiments, grading assignements and providing instructions for the final project.
 
 ## Selected Publications
 
@@ -27,4 +27,10 @@ Wenda Zhao is a Ph.D. candidate in Dynamic System Lab (DSL), University of Toron
 [1]:https://www.linkedin.com/in/wenda-zhao-648ab8138/
 [2]:https://github.com/Williamwenda
 
+[utias]:https://www.utias.utoronto.ca/
+[dsl]:http://www.dynsyslab.org/
+[VI]:https://vectorinstitute.ai/
+[tju]:https://www.tongji.edu.cn/
+[rwth]:https://www.rwth-aachen.de/go/id/a/?lidx=1
+[aer1217]:https://carre.utoronto.ca/aer1217
 [uwb]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
