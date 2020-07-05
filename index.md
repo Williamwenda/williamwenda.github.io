@@ -20,7 +20,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 
 ## Contact Information and Links
 
-- Contact Wenda: **wenda {dot} zhao {at} robotics {dot} utias {dot} utoronto {dot} ca**
+- Contact Wenda: **wenda {dot} zhao {at} mail {dot} utoronto {dot} ca**
 - Or find him on [LinkedIn][1], [GitHub][2]
 <!-- - [Resume][cv] -->
 
