@@ -25,7 +25,7 @@ Responsible for designing course materials, involving quadcopter PID controller,
 
 - **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig, Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress, 2020
 
-- **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu, Fragility analysis and weak point identification of power system - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, vol. 10458, p. 104580G. International Society for Optics and Photonics, 2017
+- **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu, Fragility analysis and weak point identification of power system - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, vol. 10458, p. 104580G, 2017
 
 ## Life
 
