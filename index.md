@@ -11,7 +11,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 ## Current Projects
 
 - Robust state estimation and learning-based bias correction
-  [Accurate indoor Ultra-wideband (UWB)-based localization system - Bitcraze blog][uwb]
+  [Accurate indoor Ultra-wideband localization system - Bitcraze blog][uwb]
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
@@ -30,8 +30,11 @@ Responsible for designing course materials, involving quadcopter PID controller,
 ## Life
 
 ### Video Editing 
+Christmas Video (2020)
 [![Christmas Video (2020)](/xmas_20.png)](https://www.youtube.com/watch?v=54fA6etaOFo "Christmas Video (2020)") 
 
+Welcome to the Dynamic Systems Lab (2018)
+[![Welcome (2018)](/welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
 ## Contact Information and Links
 
 - Contact Wenda: **wenda {dot} zhao {at} mail {dot} utoronto {dot} ca**
