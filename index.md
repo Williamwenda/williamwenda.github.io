@@ -11,6 +11,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 ## Current Projects
 
 - Robust state estimation and learning-based bias correction
+
   [Accurate indoor Ultra-wideband localization system - Bitcraze blog][uwb]
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
@@ -18,6 +19,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 ## Teaching
 
 - At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. 
+
 Responsible for designing course materials, involving quadcopter PID controller, vision-based geolocalization, mono camera visual odometry, and path planning algorithms. 
 
 ## Selected Publications
