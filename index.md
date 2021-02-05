@@ -4,7 +4,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Current Research
 
-- State estimation and statistical inference
+- Bayesian estimation and statistical inference
 - Nonlinear systems and mobile robotics
 - Machine learning and data-driven approaches
 
