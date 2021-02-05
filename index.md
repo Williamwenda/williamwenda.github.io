@@ -11,7 +11,7 @@ Wenda Zhao is a Ph.D. candidate in [Dynamic System Lab (DSL)][dsl], [University 
 ## Current Projects
 
 - Robust state estimation and learning-based bias correction
-  [Accurate indoor localization system for quadrotors with ultra-wideband (UWB)][uwb]
+  [Accurate indoor Ultra-wideband (UWB)-based localization system - Bitcraze blog][uwb]
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
@@ -30,7 +30,7 @@ Responsible for designing course materials, involving quadcopter PID controller,
 ## Life
 
 ### Video Editing 
-<!-- [![Audi R8](http://img.youtube.com/vi/watch?v=54fA6etaOFo/0.jpg)](https://www.youtube.com/watch?v=54fA6etaOFo "Audi R8")  -->
+[![Christmas Video (2020)](/xmas_20.png)](https://www.youtube.com/watch?v=54fA6etaOFo "Christmas Video (2020)") 
 
 ## Contact Information and Links
 
