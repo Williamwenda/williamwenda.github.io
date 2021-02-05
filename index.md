@@ -30,7 +30,7 @@ Responsible for designing course materials, involving quadcopter PID controller,
 ## Life
 
 ### Video Editing 
-[![Audi R8](http://img.youtube.com/vi/watch?v=54fA6etaOFo/0.jpg)](https://www.youtube.com/watch?v=54fA6etaOFo "Audi R8") 
+<!-- [![Audi R8](http://img.youtube.com/vi/watch?v=54fA6etaOFo/0.jpg)](https://www.youtube.com/watch?v=54fA6etaOFo "Audi R8")  -->
 
 ## Contact Information and Links
 
