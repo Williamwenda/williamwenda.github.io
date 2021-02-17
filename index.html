@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wolfgang Hönig</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/academicons.min.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/fontawesome.solid.min.css">
+    <link rel="stylesheet" href="css/fontawesome.brands.min.css">
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+
+        // Get "navbar-burger" element
+        const $myNavbarBurger = document.querySelector('.navbar-burger');
+        const $myNavbar = document.querySelector('.navbar-menu');
+
+        // do not expand menu if JS is available
+        $myNavbarBurger.classList.remove('is-active');
+        $myNavbar.classList.remove('is-active');
+
+        $myNavbarBurger.addEventListener('click', () => {
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          $myNavbarBurger.classList.toggle('is-active');
+          $myNavbar.classList.toggle('is-active');
+        });
+
+        // Get all "navbar-item" elements
+        const $navbarItems = Array.prototype.slice.call(document.querySelectorAll('.navbar-item'), 0);
+        if ($navbarItems.length > 0) {
+
+          // Add a click event on each of them
+          $navbarItems.forEach( el => {
+            el.addEventListener('click', () => {
+              // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+              $myNavbarBurger.classList.remove('is-active');
+              $myNavbar.classList.remove('is-active');
+            });
+          });
+        }
+
+      });
+    </script>
+
+  </head>
+
+  <body>
+
+  <!-- Scroll Up Button -->
+  <form action="#home">
+    <button id="toTop" title="Go to top">
+      <i class="fas fa-angle-up"></i>
+    </button>
+  </form>
+
+  <!-- Navigation bar -->
+  <nav class="navbar is-dark" id="home">
+    <div class="navbar-brand">
+      <div class="navbar-burger burger is-active" data-target="myNavbar">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div id="myNavbar" class="navbar-menu is-active">
+      <div class="navbar-end">
+        <a class="navbar-item" href="#about">
+          <span class="icon">
+            <i class="fas fa-info"></i>
+          </span>
+          <span>About</span>
+        </a>
+        <a class="navbar-item" href="#code">
+          <span class="icon">
+            <i class="fas fa-file-code"></i>
+          </span>
+          <span>Code</span>
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable" id="navbar-dropdown" href="#publications">
+          <a class="navbar-link" href="#publications">
+            <span class="icon">
+              <i class="fas fa-book"></i>
+            </span>
+            <span>Publications</span>
+          </a>
+
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#pub_journals">
+              <span class="icon">
+                <i class="fas fa-book"></i>
+              </span>
+              <span>Journals</span>
+            </a>
+
+            <a class="navbar-item" href="#pub_conferences">
+              <span class="icon">
+                <i class="fas fa-book"></i>
+              </span>
+              <span>Conferences</span>
+            </a>
+
+            <a class="navbar-item" href="#pub_workshops">
+              <span class="icon">
+                <i class="fas fa-book"></i>
+              </span>
+              <span>Workshops</span>
+            </a>
+
+            <a class="navbar-item" href="#pub_theses">
+              <span class="icon">
+                <i class="fas fa-book"></i>
+              </span>
+              <span>Theses</span>
+            </a>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About -->
+  <section class="section" id="about">
+    <!-- Title -->
+    <div class="section-heading">
+      <h1 class="title is-1">Wolfgang Hönig</h1>
+      <h2 class="subtitle is-3">Robotics Researcher</h2>
+    </div>
+
+    <div class="columns is-centered is-vcentered">
+      <div class="column is-three-quarters" style="max-width: 500px">
+        <figure class="image is-3by2">
+          <img src="images/wolfgang.jpg" alt="Wolfgang Hoenig">
+        </figure>
+      </div>
+      <div class="column is-1" >
+        <p class="buttons">
+          <a href="mailto:whoenig (AT) caltech (DOT) edu" class="button is-dark">
+            <span class="icon">
+              <i class="fas fa-at"></i>
+            </span>
+            <span>E-Mail</span>
+          </a>
+
+          <a href="https://scholar.google.com/citations?user=XUQcbFAAAAAJ" class="button is-dark">
+            <span class="icon">
+              <i class="ai ai-google-scholar"></i>
+            </span>
+            <span>Google Scholar</span>
+          </a>
+
+          <a href="https://dblp.uni-trier.de/pers/hd/h/H=ouml=nig:Wolfgang" class="button is-dark">
+            <span class="icon">
+              <i class="ai ai ai-dblp"></i>
+            </span>
+            <span>DBLP</span>
+          </a>
+
+          <a href="https://github.com/whoenig" class="button is-dark">
+            <span class="icon">
+              <i class="fab fa-github"></i>
+            </span>
+            <span>GitHub</span>
+          </a>
+
+          <a href="https://www.linkedin.com/in/wolfgang-h%C3%B6nig-71385599/" class="button is-dark">
+            <span class="icon">
+              <i class="fab fa-linkedin"></i>
+            </span>
+            <span>LinkedIn</span>
+          </a>
+
+          <a href="https://www.researchgate.net/profile/Wolfgang_Hoenig" class="button is-dark">
+            <span class="icon">
+              <i class="ai ai-researchgate"></i>
+            </span>
+            <span>ResearchGate</span>
+          </a>
+
+        </p>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column is-half is-4-desktop">
+        <div class="content">
+          <p>I am a visiting research scientist at <a href="https://www.bitcraze.io">Bitcraze AB</a>. Starting May 2021, I'll be leading my own research group at <a href="https://www.eecs.tu-berlin.de/menue/einrichtungen/institute/itim/parameter/en/">TU Berlin</a>. Previously, I was a postdoctoral scholar at the Department of Aerospace, <a href="https://www.caltech.edu">California Institute of Technology</a>, advised by <a href="https://aerospacerobotics.caltech.edu">Soon-Jo Chung</a>.
+          I hold a Ph.D. in Computer Science from the the <a href="https://www.usc.edu">University of Southern California</a>, where I was advised by <a href="https://act.usc.edu">Nora Ayanian</a>. My research focuses on enabling large teams of physical robots to collaboratively solve real-world tasks, using tools from informed search, optimization, and machine learning.</p>
+
+          <p>In my free time, I enjoy hiking, hanging out in a hammock, and playing the ukulele.</p>
+        </div>
+      </div>
+
+      <div class="column is-half is-4-desktop">
+
+        <div class="content paper">
+          <h2 class="subtitle is-6">Academic Experience</h2>
+
+          <ul>
+            <li>
+              <span class="title">Postdoc, Aerospace, Caltech</span>
+              <span class="note">2019 - 2020.</span>
+            </li>
+
+            <li>
+              <span class="title">Ph.D. Student, Computer Science, USC</span>
+              <span class="note">2014 - 2019.</span>
+            </li>
+
+            <li>
+              <span class="title">Diploma Student (M.S. equivalent), Computer Science, TU Dresden</span>
+              <span class="note">2006 - 2012.</span>
+            </li>
+          </ul>
+
+          <h2 class="subtitle is-6">Industrial Experience</h2>
+
+          <ul>
+            <li>
+              <span class="title">Visiting Research Scientist, Bitcraze AB</span>
+              <span class="note">2021.</span>
+            </li>
+
+            <li>
+              <span class="title">Research Scientist Intern, Amazon Robotics</span>
+              <span class="note">2017.</span>
+            </li>
+
+            <li>
+              <span class="title">Senior Software Engineer, NVIDIA</span>
+              <span class="note">2012 - 2014.</span>
+            </li>
+          </ul>
+
+
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+
+  <!-- Code -->
+  <section class="section" id="code">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <h1 class="title is-3">Open-Source Code</h1>
+      </div>
+
+      <div class="container">
+        <div class="tile is-ancestor is-flex-wrap">
+
+          <div class="tile is-parent">
+            <div class="tile is-child card">
+              <div class="card-image has-text-centered">
+                <figure class="image is-inline-block">
+                  <img src="publications/2018_T-RO_Hoenig.jpg" alt="Paper image">
+                </figure>
+              </div>
+              <div class="card-content paper">
+                <p class="title">
+                  Crazyswarm
+                </p>
+                <p class="author">
+                  Co-author (with J. A. Preiss) and maintainer
+                </p>
+                <p class="note">
+                  Framework to control 50+ Crazyflie 2.x quadrotors from a single PC. The Crazyswarm is used at many universities worldwide to experimentally validate multi-robot systems algorithms. Written in C++ and Python and based on crazyflie_ros.
+                </p>
+              </div>
+              <footer class="card-footer">
+                <a href="https://github.com/USC-ACTLab/crazyswarm" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+                <a href="https://crazyswarm.readthedocs.io" class="card-footer-item"><span class="icon"><i class="fas fa-book"></i></span><span>Docs</span></a>
+              </footer>
+            </div>
+          </div>
+
+          <div class="tile is-parent">
+            <div class="tile is-child card">
+              <div class="card-image has-text-centered">
+                <figure class="image is-inline-block">
+                  <img src="images/libMultiRobotPlanning.png" alt="Paper image">
+                </figure>
+              </div>
+              <div class="card-content paper">
+                <p class="title">
+                  libMultiRobotPlanning
+                </p>
+                <p class="author">
+                  Author and maintainer
+                </p>
+                <p class="note">
+                  Library and example applications for multi-robot path planning (CBS, ECBS, SIPP, and variants) and task assignment. Written in C++ (templated state/actions).
+                </p>
+              </div>
+              <footer class="card-footer">
+                <a href="https://github.com/whoenig/libMultiRobotPlanning" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              </footer>
+            </div>
+          </div>
+
+          <div class="tile is-parent">
+            <div class="tile is-child card">
+              <div class="card-image has-text-centered">
+                <figure class="image is-inline-block">
+                  <img src="images/crazyflie_ros.png" alt="Paper image">
+                </figure>
+              </div>
+              <div class="card-content paper">
+                <p class="title">
+                  crazyflie_ros
+                </p>
+                <p class="author">
+                  Author and maintainer
+                </p>
+                <p class="note">
+                  Robot Operating System (ROS) stack for the Crazyflie 1 and 2.x quadrotors. The stack provides low- and high-level interfaces, includes examples, and is described in a tutorial-style book chapter in detail. Written in C++ and Python.
+                </p>
+              </div>
+              <footer class="card-footer">
+                <a href="https://github.com/whoenig/crazyflie_ros" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+                <a href="publications/2017_Springer_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              </footer>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="section" id="publications">
+
+    <div class="section-heading">
+      <h1 class="title is-3">Publications</h1>
+      <h2 class="subtitle is-5" id="pub_journals">Book Chapters and Journals</h2>
+    </div>
+
+    <div class="container">
+      <div class="tile is-ancestor is-flex-wrap">
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-image has-text-centered">
+              <figure class="image is-inline-block">
+                <img src="publications/2020_RA-L_Riviere.png" alt="Paper image">
+              </figure>
+            </div>
+            <div class="card-content paper">
+              <p class="title">
+                GLAS: Global-to-Local Safe Autonomy Synthesis for Multi-Robot Motion Planning with End-to-End Learning
+              </p>
+              <p class="venue">
+                IEEE Robotics and Automation Letters (RA-L), 2020
+              </p>
+              <p class="author">
+                B. Rivière, <strong>W. Hönig</strong>, Y. Yue, and S.-J. Chung
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2020_RA-L_Riviere.pdf" class="card-footer-item"><span class="icon"> <i class="fas fa-file-pdf"></i> </span> <span>PDF</span></a>
+              <a href="https://youtu.be/z9LjSfLfG6c" class="card-footer-item"><span class="icon"> <i class="fas fa-video"></i> </span> <span>Video</span></a>
+              <a href="https://github.com/bpriviere/glas" class="card-footer-item"><span class="icon"> <i class="fab fa-github"></i> </span> <span>GitHub</span></a>
+              <a href="https://doi.org/10.1109/LRA.2020.2994035" class="card-footer-item"><span class="icon"> <i class="ai ai-doi"></i> </span> <span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-image has-text-centered">
+              <figure class="image is-inline-block">
+                <img src="publications/2019_RA-L_Hoenig.png" alt="Paper image">
+              </figure>
+            </div>
+            <div class="card-content paper">
+              <p class="title">
+                Persistent and Robust Execution of MAPF Schedules in Warehouses
+              </p>
+              <p class="venue">
+                IEEE Robotics and Automation Letters (RA-L), 2019
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, S. Kiesel, A. Tinka, J. W. Durham, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2019_RA-L_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/lgoR6shVGjk" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/LRA.2019.2894217" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-image has-text-centered">
+              <figure class="image is-inline-block">
+                <img src="publications/2018_T-RO_Hoenig.jpg" alt="Paper image">
+              </figure>
+            </div>
+            <div class="card-content paper">
+              <p class="title">
+                Trajectory Planning for Quadrotor Swarms
+              </p>
+              <p class="venue">
+                IEEE Transactions on Robotics (T-RO), Special Issue Aerial Swarm Robotics, 2018
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, J. A. Preiss, T. K. S. Kumar, G. S. Sukhatme, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2018_T-RO_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/7KIa9FlmbRc" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/TRO.2018.2853613" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-image has-text-centered">
+              <figure class="image is-inline-block">
+                <img src="publications/2017_IEEE-IS_Ma.jpg" alt="Paper image">
+              </figure>
+            </div>
+            <div class="card-content paper">
+              <p class="title">
+                Overview: A Hierarchical Framework for Plan Generation and Execution in Multirobot Systems
+              </p>
+              <p class="venue">
+                IEEE Intelligent Systems, 2017
+              </p>
+              <p class="author">
+                H. Ma, <strong>W. Hönig</strong>, L. Cohen, T. Uras, H. Xu, T. K. S. Kumar, N. Ayanian and S. Koenig
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2017_IEEE-IS_Ma.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/EB590_pskLo" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/MIS.2017.4531217" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-image has-text-centered">
+              <figure class="image is-inline-block">
+                <img src="publications/2017_Springer_Hoenig.png" alt="Paper image">
+              </figure>
+            </div>
+            <div class="card-content paper">
+              <p class="title">
+                Flying Multiple UAVs Using ROS
+              </p>
+              <p class="venue">
+                Chapter in Robot Operating System (ROS): The Complete Reference (Volume 2), Springer, 2017
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong> and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2017_Springer_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/7KIa9FlmbRc" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="http://dx.doi.org/10.1007/978-3-319-54927-9" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="section-heading">
+      <h2 class="subtitle is-5" id="pub_conferences">Conferences</h2>
+    </div>
+
+    <div class="container">
+      <div class="tile is-ancestor is-flex-wrap">
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Information-Based Guidance and Control Architecture for Multi-Spacecraft On-Orbit Inspection
+              </p>
+              <p class="venue">
+                AIAA Guidance, Navigation, and Control Conference, 2021
+              </p>
+              <p class="author">
+                Y. Nakka, <strong>W. Hönig</strong>, C. Choi, A. Harvard, A. Rahmani, S.-J. Chung
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2021_AIAA_Nakka.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://doi.org/10.2514/6.2021-1103" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                A Project on Multi-Agent Path Finding (MAPF)
+              </p>
+              <p class="venue">
+                Symposium on Educational Advances in Artificial Intelligence (EAAI), Model AI Assignments, 2020
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, Jiaoyang Li, Sven Koenig
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="http://modelai.gettysburg.edu/2020/mapf" class="card-footer-item"><span class="icon"><i class="fas fa-external-link-alt"></i></span><span>Webpage</span></a>
+              <a href="https://doi.org/10.1609/aaai.v34i09.7072" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Neural-Swarm: Decentralized Close-Proximity Multirotor Control Using Learned Interactions
+              </p>
+              <p class="venue">
+                IEEE International Conference on Robotics and Automation (ICRA), 2020
+              </p>
+              <p class="author">
+                G. Shi, <strong>W. Hönig</strong>, Y. Yue, S.-J. Chung
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2020_ICRA_Shi.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/v4j-9pH11Q8" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/ICRA40945.2020.9196800" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Sim-to-(Multi)-Real: Transfer of Low-Level Robust Control Policies to Multiple Quadrotors
+              </p>
+              <p class="venue">
+                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019
+              </p>
+              <p class="author">
+                A. Molchanov*, T. Chen*, <strong>W. Hönig</strong>, J.A. Preiss, N. Ayanian, and G.S. Sukhatme
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2019_IROS_Molchanov_Chen.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/Rkj1_gwrtAg" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://github.com/amolchanov86/quad_sim2multireal" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              <a href="https://doi.org/10.1109/IROS40897.2019.8967695" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Summary: Distributed Task Assignment and Path Planning with Limited Communication for Robot Teams
+              </p>
+              <p class="venue">
+                International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019<br/>
+                (Short Paper)
+              </p>
+              <p class="author">
+                D. Albani*, <strong>W. Hönig*</strong>, N. Ayanian, D. Nardi, and V. Trianni
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2019_AAMAS_Albani_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="http://dl.acm.org/citation.cfm?id=3331913" class="card-footer-item"><span class="icon"><i class="ai ai-acm"></i></span><span>ACM</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Lifelong Path Planning with Kinematic Constraints for Multi-Agent Pickup and Delivery
+              </p>
+              <p class="venue">
+                AAAI Conference on Artificial Intelligence (AAAI), 2019
+              </p>
+              <p class="author">
+                H. Ma, <strong>W. Hönig</strong>, S. Kumar, N. Ayanian, and S. Koenig
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2019_AAAI_Ma.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/eEbssZioY2g" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1609/aaai.v33i01.33017651" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+              <div class="card-footer-item dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <i class="fas fa-bars"></i>
+                  </button>
+                </div>
+                <div class="dropdown-menu" id="dropdown-menu" role="menu">
+                  <div class="dropdown-content">
+                    <a href="publications/Ma_AAAI2019_appendix.pdf" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Appendix</span>
+                    </a>
+                    <a href="https://youtu.be/HhyilEDxqYk" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-video"></i>
+                      </span>
+                      <span>Video 2</span>
+                    </a>
+                    <a href="https://youtu.be/aYkG05Gy0rE" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-video"></i>
+                      </span>
+                      <span>Video 3</span>
+                    </a>
+                    <a href="https://youtu.be/RTJvJYJVxJk" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-video"></i>
+                      </span>
+                      <span>Video 4</span>
+                    </a>
+                    <a href="https://youtu.be/4-JMxUzkovc" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-video"></i>
+                      </span>
+                      <span>Video 5</span>
+                    </a>
+                    <a href="https://youtu.be/VR32xGQ8ODw" class="dropdown-item">
+                      <span class="icon">
+                        <i class="fas fa-video"></i>
+                      </span>
+                      <span>Video 6</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Robust Trajectory Execution for Multi-Robot Teams Using Distributed Real-time Replanning
+              </p>
+              <p class="venue">
+                Int. Symp. on Distributed Autonomous Robotic Systems (DARS), 2018
+              </p>
+              <p class="author">
+                B. Şenbaşlar, <strong>W. Hönig</strong>, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2018_DARS_Senbaslar.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/LbWRvLfdwTA" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://github.com/baskinburak/mrtrajreplan-dars2018" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              <a href="https://doi.org/10.1007/978-3-030-05816-6_12" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Trajectory Planning for Heterogeneous Robot Teams
+              </p>
+              <p class="venue">
+                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018
+              </p>
+              <p class="author">
+                M. Debord, <strong>W. Hönig</strong>, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2018_IROS_Debord.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/OzXUV4GQ7Qs" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://github.com/mjdebord/smoothener/tree/cylinders" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              <a href="https://www.bitcraze.io/2018/04/heterogeneous-trajectory-planning-with-crazyflie-and-bigquad-deck/" class="card-footer-item"><span class="icon"><i class="fas fa-external-link-alt"></i></span><span>Blog</span></a>
+              <a href="https://doi.org/10.1109/IROS.2018.8593876" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Conflict-Based Search with Optimal Task Assignment
+              </p>
+              <p class="venue">
+                IEEE/RSJ Intl Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2018
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, S. Kiesel, A. Tinka, J. W. Durham, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2018_AAMAS_a_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://github.com/whoenig/libMultiRobotPlanning" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              <a href="http://dl.acm.org/citation.cfm?id=3237495" class="card-footer-item"><span class="icon"><i class="ai ai-acm"></i></span><span>ACM</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Downwash-Aware Trajectory Planning for Large Quadrotor Teams
+              </p>
+              <p class="venue">
+                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 250-257, 2017
+              </p>
+              <p class="author">
+                J. A. Preiss, <strong>W. Hönig</strong>, G. S. Sukhatme, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2017_IROS_Preiss.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/YnGZ-arUwgc" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/IROS.2017.8202165" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Summary: Multi-Agent Path Finding with Kinematic Contraints
+              </p>
+              <p class="venue">
+                International Joint Conferences on Artificial Intelligence (IJCAI), 2017
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, T. K. S. Kumar, L. Cohen, H. Ma, H. Xu, N. Ayanian, and S. Koenig
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2017_IJCAI_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="http://youtu.be/mV3BqnelqDU" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.24963/ijcai.2017/684" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Crazyswarm: A Large Nano-Quadcopter Swarm
+              </p>
+              <p class="venue">
+                IEEE International Conference on Robotics and Automation (ICRA), 2017
+              </p>
+              <p class="author">
+                J. A. Preiss*, <strong>W. Hönig*</strong>, G. S. Sukhatme, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2017_ICRA_Preiss_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://crazyswarm.readthedocs.io" class="card-footer-item"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+              <a href="https://youtu.be/D0CrjoYDt9w" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/ICRA.2017.7989376" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Dynamic multi-target coverage with robotic cameras
+              </p>
+              <p class="venue">
+                IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2016
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong> and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2016_IROS_b_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/JlLjDn1xZwQ" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/IROS.2016.7759297" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Formation change for robot groups in occluded environments
+              </p>
+              <p class="venue">
+                IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2016
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, T. K. S. Kumar, H. Ma, S. Koenig, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2016_IROS_a_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/aDg6JA4XXQM" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/IROS.2016.7759710" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Multi-Agent Path Finding with Kinematic Contraints
+              </p>
+              <p class="venue">
+                Intl Conf. on Automated Planning and Scheduling (ICAPS), 2016<br/>
+                <strong>Awarded best paper in robotics track.</strong>
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, T. K. S. Kumar, L. Cohen, H. Ma, H. Xu, N. Ayanian, and S. Koenig
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2016_ICAPS_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="https://youtu.be/mV3BqnelqDU" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="http://www.aaai.org/ocs/index.php/ICAPS/ICAPS16/paper/view/13183" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+        <div class="tile is-parent">
+          <div class="tile is-child card">
+            <div class="card-content paper">
+              <p class="title">
+                Mixed Reality for Robotics
+              </p>
+              <p class="venue">
+                IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2015
+              </p>
+              <p class="author">
+                <strong>W. Hönig</strong>, C. Milanes, L. Scaria, T. Phan, M. Bolas, and N. Ayanian
+              </p>
+            </div>
+            <footer class="card-footer">
+              <a href="publications/2015_IROS_Hoenig.pdf" class="card-footer-item"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+              <a href="http://youtu.be/px9iHkA0nOI" class="card-footer-item"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+              <a href="https://doi.org/10.1109/IROS.2015.7354138" class="card-footer-item"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+            </footer>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <div class="section-heading">
+      <h2 class="subtitle is-5" id="pub_workshops">Workshops, Symposia, and Extended Abstracts</h2>
+    </div>
+
+    <div class="container">
+
+      <ul class="paper">
+
+
+        <li>
+          <span class="title">GLAS: Global-to-Local Safe Autonomy Synthesis for Multi-Robot Motion Planning with End-to-End Learning (Short Version),</span>
+          <span class="venue">Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination at RSS, 2020,</span>
+          <span class="author">B. Rivière, <strong>W. Hönig</strong>, Y. Yue, and S.-J. Chung</span>
+          <br>
+          [
+            <a href="publications/2020_MRTA-RSS_Riviere.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/z9LjSfLfG6c"><span class="icon"> <i class="fas fa-video"></i> </span> <span>Video</span></a>
+            <a href="https://youtu.be/ve_X78KWknc"><span class="icon"><i class="fas fa-chalkboard"></i></span><span>Talk</span></a>
+            <a href="https://github.com/bpriviere/glas"><span class="icon"> <i class="fab fa-github"></i> </span> <span>GitHub</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Sim-to-(Multi)-Real: Transfer of Low-Level Robust Control Policies to Multiple Quadrotors (Extended Abstract),</span>
+          <span class="venue">Southern California Robotics Symposium (SCR), 2019,</span>
+          <span class="author">A. Molchanov*, T. Chen*, <strong>W. Hönig</strong>, J.A. Preiss, N. Ayanian, and G.S. Sukhatme</span>
+          <br>
+          [
+            <a href="publications/2019_SCR_Molchanov.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/Rkj1_gwrtAg"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>,
+            <a href="https://github.com/amolchanov86/quad_sim2multireal"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Robust Trajectory Execution for Multi-robot Teams Using Distributed Real-time Replanning (Extended Abstract),</span>
+          <span class="venue">Southern California Robotics Symposium (SCR), 2019,</span>
+          <span class="author">B. Şenbaşlar, <strong>W. Hönig</strong>, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2019_SCR_Senbaslar.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/LbWRvLfdwTA"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Robust Trajectory Execution for Multi-Robot Teams Using Distributed Real-time Replanning (Extended Abstract),</span>
+          <span class="venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Late Breaking), 2018,</span>
+          <span class="author">B. Şenbaşlar, <strong>W. Hönig</strong>, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2018_IROS-LateBreaking_Senbaslar.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/LbWRvLfdwTA"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Trajectory Planning for Heterogeneous Robot Teams,</span>
+          <span class="venue">International Symposium on Aerial Robotics (ISAR), 2018,</span>
+          <span class="author">M. Debord, <strong>W. Hönig</strong>, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2018_ISAR_Debord.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/OzXUV4GQ7Qs"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Scalable Task and Motion Planning for Multi-Robot Systems in Obstacle-Rich Environments (Doctoral Consortium),</span>
+          <span class="venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018,</span>
+          <span class="author"><strong>W. Hönig</strong></span>
+          <br>
+          [
+            <a href="publications/2018_AAMAS_b_Hoenig.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="http://dl.acm.org/citation.cfm?id=3237962"><span class="icon"><i class="ai ai-acm"></i></span><span>ACM</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Mixed Reality Collaboration between Human-Agent Teams (Extended Abstract),</span>
+          <span class="venue">IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) (Poster), 2018,</span>
+          <span class="author">T. Phan, <strong>W. Hönig</strong>, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2018_IEEE-VR_Phan.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/D0WhSW0phx4"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>,
+            <a href="https://doi.org/10.1109/VR.2018.8446542"><span class="icon"><i class="ai ai-doi"></i></span><span>DOI</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Downwash-Aware Trajectory Planning for Quadrotor Swarms,</span>
+          <span class="venue">International Symposium on Aerial Robotics (ISAR), 2017,</span>
+          <span class="author">J. A. Preiss, <strong>W. Hönig</strong>, G. S. Sukhatme, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2017_ISAR_Preiss.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Downwash-Aware Trajectory Planning for Large Quadcopter Teams,</span>
+          <span class="venue">Southern California Robotics Symposium (SCR), 2017,</span>
+          <span class="author">J. A. Preiss, <strong>W. Hönig</strong>, G. S. Sukhatme, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2017_SCR_Preiss.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Crazyswarm: A Large Nano-Quadcopter Swarm (Extended Abstract),</span>
+          <span class="venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Late Breaking), 2016</span>
+          <span class="author">J. A. Preiss, <strong>W. Hönig</strong>, G. S. Sukhatme, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2016_IROS-LateBreaking_Preiss.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://youtu.be/ezTayb76x9U"><span class="icon"><i class="fas fa-video"></i></span><span>Video</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Seamless Robot Simulation Integration for Education: A Case Study,</span>
+          <span class="venue">Workshop on the Role of Simulation in Robot Programming at SIMPAR, 2016,</span>
+          <span class="author"><strong>W. Hönig</strong>, A. Tavakoli, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2016_SimRP_Hoenig.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>,
+            <a href="https://github.com/USC-ACTLab/pyCreate2"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Overview: Generalizations of Multi-Agent Path Finding to Real-World Scenarios,</span>
+          <span class="venue">Workshop on Multi-Agent Path Finding (WOMPF) at IJCAI, 2016,</span>
+          <span class="author">H. Ma, S. Koenig, N. Ayanian, L. Cohen, <strong>W. Hönig</strong>, T. K. S. Kumar, T. Uras, H. Xu, C. Tovey, and G. Sharon</span>
+          <br>
+          [
+            <a href="publications/2016_IJCAI-Workshop_Ma.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Path Planning With Kinematic Constraints For Robot Groups,</span>
+          <span class="venue">Southern California Robotics Symposium (SCR), 2016,</span>
+          <span class="author"><strong>W. Hönig</strong>, T. K. S. Kumar, L. Cohen, H. Ma, S. Koenig, and N. Ayanian</span>
+          <br>
+          [
+            <a href="publications/2016_SCR_Hoenig.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+          ]
+        </li>
+
+      </ul>
+    </div>
+
+    <div class="section-heading">
+      <h2 class="subtitle is-5" id="pub_theses">Theses</h2>
+    </div>
+
+    <div class="container">
+
+      <ul class="paper">
+
+        <li>
+          <span class="title">Motion Coordination for Large Multi-Robot Teams in Obstacle-Rich Environments,</span>
+          <span class="venue">PhD Thesis, University of Southern California, 2019,</span>
+          <span class="author"><strong>W. Hönig</strong>,</span>
+          <span class="note">Supervisors: Nora Ayanian, Gaurav S. Sukhatme, Sven Koenig, Vijay Kumar.<br>
+            <strong>Best Dissertation Award in Computer Science at USC</strong>
+          </span>
+          <br>
+          [
+            <a href="publications/2019_PhD-Thesis_Hoenig.pdf"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>PDF</span></a>
+          ]
+        </li>
+
+        <li>
+          <span class="title">Towards Source-Level CUDA Kernel Profiling,</span>
+          <span class="venue">Diploma Thesis, Technical University Dresden, 2012,</span>
+          <span class="author"><strong>W. Hönig</strong>,</span>
+          <span class="note">Supervisors: Prof. Nagel, Prof. Hochberger, Dr. Strengert, Guido Juckeland, Robert Dietrich. In cooperation with NVIDIA.</span>
+        </li>
+
+        <li>
+          <span class="title">Porting a Ptychography Application to the CUDA GPU-Model,</span>
+          <span class="venue">Bachelor Thesis, Technical University Dresden, 2010,</span>
+          <span class="author"><strong>W. Hönig</strong>,</span>
+          <span class="note">Supervisors: Prof. Nagel, Prof. Schroer, Dr. Knüpfer, Dr. Schropp, Guido Juckeland. In German.</span>
+        </li>
+
+      </ul>
+    </div>
+
+  </section>
+
+
+  </body>
+</html>
