@@ -18,7 +18,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 - At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. 
 
-Responsible for designing course materials, involving quadcopter PID controller, vision-based geolocalization, mono camera visual odometry, and path planning algorithms. 
+Responsible for designing course materials, involving quadcopter PID controller, vision-based geolocalization, stereo camera visual odometry, and path planning algorithms. 
 
 ## Selected Publications
 - **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2021
