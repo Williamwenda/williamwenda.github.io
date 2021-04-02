@@ -14,6 +14,9 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
+## Open Source Project
+- M-estimation based Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
+- M-estimation based Kalman filter for UWB TWR measurements. [PR #745, (merged)][PR-745]
 ## Teaching
 
 - At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. 
@@ -52,3 +55,6 @@ Welcome to the Dynamic Systems Lab (2018)
 [rwth]:https://www.rwth-aachen.de/go/id/a/?lidx=1
 [aer1217]:https://carre.utoronto.ca/aer1217
 [uwb]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
+[release-202103]:https://www.bitcraze.io/2021/03/release-2021-03-lighthouse-is-stable/
+[PR-707]:https://github.com/bitcraze/crazyflie-firmware/pull/707
+[PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
