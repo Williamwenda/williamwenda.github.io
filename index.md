@@ -17,6 +17,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 ## Open Source Project
 - M-estimation based Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
 - M-estimation based Kalman filter for UWB TWR measurements. [PR #745, (merged)][PR-745]
+
 ## Teaching
 
 - At *University of Toronto*: teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. 
