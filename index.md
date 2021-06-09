@@ -10,7 +10,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Current Projects
 
-- Robust state estimation and learning-based Ultra-wideband bias correction ([bias learning][bias-learning], [robust filtering][robust-filtering])
+- Robust state estimation and learning-based Ultra-wideband bias correction ([blog1: bias learning][bias-learning], [blog2: robust filtering][robust-filtering])
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
@@ -39,7 +39,7 @@ Christmas Video (2020)
 
 Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
-### Building Customized Quadcopters
+### Customized Quadcopters Design
 Coming soon!
 ## Contact Information and Links
 
