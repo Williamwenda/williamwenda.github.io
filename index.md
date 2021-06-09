@@ -10,7 +10,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Current Projects
 
-- Robust state estimation and learning-based Ultra-wideband bias correction ([blog1: bias learning][bias-learning], [blog2: robust filtering][robust-filtering])
+- Robust state estimation and learning-based Ultra-wideband bias correction ([Blog1: bias learning][bias-learning], [Blog2: robust filtering][robust-filtering])
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
