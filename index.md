@@ -10,7 +10,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Current Projects
 
-- Robust state estimation and learning-based Ultra-wideband bias correction ([Bitcraze blog][uwb])
+- Robust state estimation and learning-based Ultra-wideband bias correction ([bias learning][bias-learning], [robust filtering][robust-filtering])
 - Large-scale Ultra-wideband (UWB)-based localization system
 - Multi-agent relative localization and control
 
@@ -39,6 +39,8 @@ Christmas Video (2020)
 
 Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
+### Building Customized Quadcopters
+Coming soon!
 ## Contact Information and Links
 
 - Contact Wenda: **wenda {dot} zhao {at} mail {dot} utoronto {dot} ca**
@@ -55,7 +57,8 @@ Welcome to the Dynamic Systems Lab (2018)
 [tju]:https://www.tongji.edu.cn/
 [rwth]:https://www.rwth-aachen.de/go/id/a/?lidx=1
 [aer1217]:https://carre.utoronto.ca/aer1217
-[uwb]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
+[bias-learning]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
+[robust-filtering]:https://www.bitcraze.io/2021/06/robust-kalman-filter-for-ultra-wideband-localization/
 [release-202103]:https://www.bitcraze.io/2021/03/release-2021-03-lighthouse-is-stable/
 [PR-707]:https://github.com/bitcraze/crazyflie-firmware/pull/707
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
