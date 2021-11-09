@@ -43,9 +43,10 @@ Welcome to the Dynamic Systems Lab (2018)
 Customized drone platform based on CF-Bolt
 <div style="clear: both;">
   <div style="float: right; margin-left 3em;">
-    <img src="cf-bolt.jpg" alt="" width="400">
+    <img src="cf-bolt.jpg" alt="" width="100">
   </div>
 </div>
+
 ## Contact Information and Links
 
 - Contact Wenda: **wenda {dot} zhao {at} mail {dot} utoronto {dot} ca**
