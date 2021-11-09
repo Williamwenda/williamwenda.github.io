@@ -41,9 +41,7 @@ Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
 ### Customized Quadcopters Design
 Customized drone platform based on CF-Bolt
-
 <img width="300" src="cf-bolt.jpg" >
-
 <p>&nbsp;</p>
 
 ## Contact Information and Links
