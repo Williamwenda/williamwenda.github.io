@@ -60,7 +60,7 @@ A team of customized quadrotors.
 
 <br>
 <div style="margin:10px auto;height: 245px; pointer-events: none;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=x0OH_adH2t_SCrC7Z9P2mQ-27rJ6L2XAo0D_WJl6pEU'></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=WHa9D1crDmmh9RyrF99004BuTB-twSgpCBI7lFp1Zew"></script>
 </div>
 <br>
 
