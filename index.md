@@ -58,6 +58,12 @@ A team of customized quadrotors.
 - Or find him on [LinkedIn][1], [GitHub][2]
 <!-- - [Resume][cv] -->
 
+</table><br>
+<div style="margin:10px auto;height: 270px; pointer-events: none;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=x0OH_adH2t_SCrC7Z9P2mQ-27rJ6L2XAo0D_WJl6pEU'></script>
+</div>
+<br>
+
 [1]:https://www.linkedin.com/in/wenda-zhao-648ab8138/
 [2]:https://github.com/Williamwenda
 
