@@ -54,7 +54,7 @@ A team of customized quadrotors.
 
 ## Contact Information and Links
 
-- Contact Wenda: 
+- Contact Wenda:  <br />
   **wenda {dot} zhao {at} robotics {dot} utias {dot} utoronto {dot} ca**
 - Or find him on [LinkedIn][1], [GitHub][2]
 <!-- - [Resume][cv] -->
