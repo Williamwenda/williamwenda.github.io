@@ -17,7 +17,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 ## Open Source Projects
 - M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
 - M-estimation based robust Kalman filter for UWB TWR measurements. [PR #745, (merged)][PR-745] Included in the [Bitcraze Code Release 2021.06][release-202106]
-- UWB TDOA dataset (coming soon!)
+- The UTIAS UWB TDOA dataset ([webpage][uwb-dataset])
 
 ## Teaching
 
@@ -27,11 +27,16 @@ Responsible for designing course materials, involving quadcopter PID controller,
 
 ## Selected Publications
 
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS ultra-wideband time-difference-of-arrival dataset for indoor localization - International Journal of Robotics Research (IJRR) Dataset 2022, (submitted)
+
+
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L) 2022, (submitted)
 
 - Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, A Variational Bayes Approach to Calibration of Ultrawideband-based Localization Systems - IEEE International Conference on Robotics and Automation (ICRA) 2022, (submitted)
 
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2022
+
+- Navid Kayhani, **Wenda Zhao**, Brenda McCabe, and Angela P. Schoellig, Tag-based visual-inertial localization of unmanned aerial vehicles in indoor construction environments using an on-manifold extended Kalman filter - Automation in Construction, 2022
 
 - **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), presented at ICRA 2021
 
@@ -82,3 +87,4 @@ A team of customized quadrotors.
 [release-202106]:https://github.com/bitcraze/crazyflie-release/releases/tag/2021.06
 [PR-707]:https://github.com/bitcraze/crazyflie-firmware/pull/707
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
+[uwb-dataset]:https://utiasdsl.github.io/utias_uwb_dataset/
