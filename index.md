@@ -32,8 +32,6 @@ Responsible for designing course materials, involving quadcopter PID controller,
 
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L) 2022, (submitted)
 
-- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, A Variational Bayes Approach to Calibration of Ultrawideband-based Localization Systems - IEEE International Conference on Robotics and Automation (ICRA) 2022, (submitted)
-
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2022
 
 - Navid Kayhani, **Wenda Zhao**, Brenda McCabe, and Angela P. Schoellig, Tag-based Visual-inertial Localization of Unmanned Aerial Vehicles in Indoor Construction Environments using an On-manifold Extended Kalman Filter - Automation in Construction, 2022
