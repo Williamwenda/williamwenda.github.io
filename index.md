@@ -1,6 +1,6 @@
 ## Short Bio
 
-Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a M.Sc. degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended a summer exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
+Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a MASc degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended a summer exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
 
 ## Current Research
 
@@ -27,10 +27,12 @@ Responsible for designing course materials, involving quadcopter PID controller,
 
 ## Selected Publications
 
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset 2022, (submitted)
+- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definitenes of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, (submitted)
+
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset, 2022, (submitted)
 
 
-- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L) 2022, (under review)
+- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L) 2022
 
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2022
 
