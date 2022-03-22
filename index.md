@@ -27,18 +27,18 @@ Responsible for designing course materials, involving quadcopter PID controller,
 
 ## Selected Publications
 
-- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definitenes of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, (submitted)
+- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definitenes of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (submitted)
 
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset, 2022, (submitted)
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset, 2022 (submitted)
 
 
-- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L) 2022
+- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), 2022
 
-- Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2022
+- Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA, 2022
 
 - Navid Kayhani, **Wenda Zhao**, Brenda McCabe, and Angela P. Schoellig, Tag-based Visual-inertial Localization of Unmanned Aerial Vehicles in Indoor Construction Environments using an On-manifold Extended Kalman Filter - Automation in Construction, 2022
 
-- **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), presented at ICRA 2021
+- **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2021
 
 - **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig, Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress, 2020
 
@@ -78,7 +78,7 @@ A fleet of customized quadrotors.
 [dsl]:http://www.dynsyslab.org/
 [VI]:https://vectorinstitute.ai/
 [RI]:https://robotics.utoronto.ca/
-[tju]:https://www.tongji.edu.cn/
+[tju]:https://www.tongji.edu.cn/eng/
 [rwth]:https://www.rwth-aachen.de/go/id/a/?lidx=1
 [aer1217]:https://carre.utoronto.ca/aer1217
 [bias-learning]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
