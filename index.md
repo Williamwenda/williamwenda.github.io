@@ -52,7 +52,7 @@ Christmas Video (2020)
 [![Christmas Video (2020)](/xmas_20.png)](https://www.youtube.com/watch?v=54fA6etaOFo "Christmas Video (2020)") 
 
 Welcome to the Dynamic Systems Lab (2018)
-[![Welcome (2018)](/welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
+[![Welcome (2018)](/welcome_utias.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
 ### Customized Quadcopters Design
 A fleet of customized quadrotors.
 <img width="500" src="drone_fleet.jpg" >
