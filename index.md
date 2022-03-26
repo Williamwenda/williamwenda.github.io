@@ -1,18 +1,19 @@
 ## Short Bio
 
-Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a MASc degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended a summer exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
+Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a MASc degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended the exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
 
 ## Current Research
 
 - Bayesian estimation and statistical inference
-- Nonlinear systems and mobile robotics
-- Machine learning and data-driven approaches
+- Robust and certifiable non-Gaussian inference
+- Machine learning and data-driven algorithms
 
 ## Current Projects
 
-- Robust state estimation and learning-based Ultra-wideband bias correction ([Blog1: bias learning][bias-learning], [Blog2: robust filtering][robust-filtering])
-- Large-scale Ultra-wideband (UWB)-based localization system
-- Multi-agent relative localization and control
+- Robust filtering and learning-based Ultra-wideband (UWB) bias correction ([Blog1: bias learning][bias-learning], [Blog2: robust filtering][robust-filtering])
+- Large-scale UWB-based localization system design
+- Duality-based certifiable sensor fusion for indoor localization
+- Relative localization and control for swarm robotics 
 
 ## Open Source Projects
 - M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
@@ -23,11 +24,11 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 - At *University of Toronto Institute for Aerospace Studies (UTIAS)*:  <br /> teaching assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. 
 
-Responsible for designing course materials, involving quadcopter PID controller, vision-based geolocalization, stereo camera visual odometry, and path planning algorithms. 
+Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
 ## Selected Publications
 
-- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definitenes of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (submitted)
+- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definiteness of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (submitted)
 
 - **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset, 2022 (submitted)
 
