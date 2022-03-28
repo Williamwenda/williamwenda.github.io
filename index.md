@@ -30,7 +30,7 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 - Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definiteness of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (submitted)
 
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, The UTIAS Ultra-wideband Time-difference-of-arrival Dataset for Indoor Localization - International Journal of Robotics Research (IJRR) Dataset, 2022 (submitted)
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR) Dataset, 2022 (submitted)
 
 
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), 2022
@@ -88,4 +88,4 @@ A fleet of customized quadrotors.
 [release-202106]:https://github.com/bitcraze/crazyflie-release/releases/tag/2021.06
 [PR-707]:https://github.com/bitcraze/crazyflie-firmware/pull/707
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
-[uwb-dataset]:https://utiasdsl.github.io/utias_uwb_dataset/
+[uwb-dataset]:https://utiasdsl.github.io/util-uwb-dataset/
