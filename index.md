@@ -18,7 +18,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 ## Open Source Projects
 - M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
 - M-estimation based robust Kalman filter for UWB TWR measurements. [PR #745, (merged)][PR-745] Included in the [Bitcraze Code Release 2021.06][release-202106]
-- The UTIAS UWB TDOA dataset ([webpage][uwb-dataset])
+- UTIL: Ultra-wideband Dataset ([webpage][uwb-dataset])
 
 ## Teaching
 
