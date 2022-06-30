@@ -29,9 +29,9 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 ## Selected Publications
 
-- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definiteness of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (submitted)
+- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Guaranteeing Positive Definiteness of the Inverse Covariance Matrix in Gaussian Variational Inference for State Estimation - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 (Accepted)
 
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR) Dataset, 2022 (submitted)
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR) Dataset, 2022 (Under review)
 
 
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), 2022
