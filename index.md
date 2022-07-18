@@ -44,6 +44,8 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 - **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig, Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress, 2020
 
+- Kayhani, Navid, Adam Heins, **Wenda Zhao**, Mohammad Nahangi, Brenda McCabe, and Angela P. Schoellig. Improved tag-based indoor localization of UAVs using extended Kalman filter - International Symposium on Automation and Robotics in Construction (ISARC), 2019.
+
 - **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu, Fragility Analysis and Weak Point Identification of Power Systems - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, 2017
 
 ## Life
