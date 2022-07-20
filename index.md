@@ -87,8 +87,8 @@ A fleet of customized quadrotors.
 [aer1217]:https://carre.utoronto.ca/aer1217
 [bias-learning]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
 [robust-filtering]:https://www.bitcraze.io/2021/06/robust-kalman-filter-for-ultra-wideband-localization/
-[release-202103]:https://github.com/bitcraze/crazyflie-release/releases/tag/2021.03
-[release-202106]:https://github.com/bitcraze/crazyflie-release/releases/tag/2021.06
+[release-202103]:https://github.com/bitcraze/crazyflie-firmware/releases/2021.03
+[release-202106]:https://github.com/bitcraze/crazyflie-firmware/releases/2021.06
 [PR-707]:https://github.com/bitcraze/crazyflie-firmware/pull/707
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
 [uwb-dataset]:https://utiasdsl.github.io/util-uwb-dataset/
