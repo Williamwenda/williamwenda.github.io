@@ -57,8 +57,12 @@ Christmas Video (2020)
 Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/utias_welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
 ### Customized Quadcopters Design
-A fleet of customized quadrotors.
+A fleet of customized drones (CF-Bolt).
 <img width="500" src="drone_fleet.jpg" >
+<p>&nbsp;</p>
+Customized quadrotor platform (DSL-drone)
+<img width="500" src="dsl-drone1.jpg" >
+<img width="500" src="dsl-drone2.jpg" >
 <p>&nbsp;</p>
 
 ## Contact Information and Links
