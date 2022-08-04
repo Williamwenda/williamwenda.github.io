@@ -59,7 +59,6 @@ Welcome to the Dynamic Systems Lab (2018)
 ### Customized Quadcopters Design
 A fleet of customized drones (CF-Bolt).
 <img width="500" src="drone_fleet.jpg" >
-<p>&nbsp;</p>
 Customized quadrotor platform (DSL-drone)
 <img width="500" src="dsl-drone1.jpg" >
 <img width="500" src="dsl-drone2.jpg" >
