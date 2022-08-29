@@ -29,12 +29,11 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 ## Selected Publications
 
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR) Dataset, (Under review)
+
+- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA, 2023
+
 - Abhishek Goudar, **Wenda Zhao**, Timothy D. Barfoot, and Angela P. Schoellig, Gaussian Variational Inference with Covariance Constraints Applied to Range-only Localization - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 
-
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR) Dataset, 2022 (Under review)
-
-
-- **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), 2022
 
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2022
 
