@@ -4,10 +4,10 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Current Research
 
-- Bayesian estimation and statistical inference
-- Robust non-Gaussian inference  
-- Factor graphs for state estimation
-- Neural network enhanced localization
+- Bayesian Estimation and Variational Inference
+- Robust non-Gaussian Inference  
+- Factor Graphs for State Estimation
+- Deep Neural Network for Perception and Localization
 
 ## Current Projects
 
