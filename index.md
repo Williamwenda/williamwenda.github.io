@@ -5,16 +5,15 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 ## Current Research
 
 - Bayesian Estimation and Variational Inference
-- Robust non-Gaussian Inference  
-- Factor Graphs for State Estimation
-- Deep Neural Network for Perception and Localization
+- Robust non-Gaussian Inference and Optimization 
+- Factor Graphs-based State Estimation
 
 ## Current Projects
 
 - Robust filtering and learning-based Ultra-wideband (UWB) bias correction ([Blog1: bias learning][bias-learning], [Blog2: robust filtering][robust-filtering])
 - Large-scale UWB-based localization system design
-- Robust sensor fusion for indoor localization
-- Relative localization and control for swarm robotics 
+- Robust state estimation for mobile robots
+- Relative localization and control for swarm robots 
 
 ## Open Source Projects
 - M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
