@@ -71,7 +71,7 @@ Customized quadrotor platform (DSL-drone)
 
 <br>
 <div style="margin:10px auto;height: 245px; pointer-events: none;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=WHa9D1crDmmh9RyrF99004BuTB-twSgpCBI7lFp1Zew&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=WHa9D1crDmmh9RyrF99004BuTB-twSgpCBI7lFp1Zew&co=1174cb&cmo=ef202f&cmn=2ddd2d&ct=ffffff'></script>
 </div>
 <br>
 
