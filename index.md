@@ -48,7 +48,7 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 - Navid Kayhani, **Wenda Zhao**, Brenda McCabe, and Angela P. Schoellig, Tag-based Visual-inertial Localization of Unmanned Aerial Vehicles in Indoor Construction Environments using an On-manifold Extended Kalman Filter - Automation in Construction, 2022
 
-- Kayhani, Navid, Adam Heins, **Wenda Zhao**, Mohammad Nahangi, Brenda McCabe, and Angela P. Schoellig. Improved tag-based indoor localization of UAVs using extended Kalman filter - International Symposium on Automation and Robotics in Construction (ISARC), 2019.
+- Navid Kayhani, Adam Heins, **Wenda Zhao**, Mohammad Nahangi, Brenda McCabe, and Angela P. Schoellig. Improved tag-based indoor localization of UAVs using extended Kalman filter - International Symposium on Automation and Robotics in Construction (ISARC), 2019.
 
 
 
