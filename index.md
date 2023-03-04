@@ -26,7 +26,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
-## Selected Publications
+## First-Author Publications
 
 - **Wenda Zhao**, Abhishek Goudar, Mingliang Tang, Xinyuan Qiao, and Angela P. Schoellig, Uncertainty-aware Gaussian Mixture Model for UWB Time Difference of Arrival Localization in Cluttered Environments - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023, (submitted). 
 
@@ -34,19 +34,23 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA, 2023
 
+- **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2021
+
+- **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig, Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress, 2020
+
+- **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu, Fragility Analysis and Weak Point Identification of Power Systems - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, 2017
+
+## Collaborated Publications
+
 - Abhishek Goudar, **Wenda Zhao**, Timothy D. Barfoot, and Angela P. Schoellig, Gaussian Variational Inference with Covariance Constraints Applied to Range-only Localization - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 
 
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2022
 
 - Navid Kayhani, **Wenda Zhao**, Brenda McCabe, and Angela P. Schoellig, Tag-based Visual-inertial Localization of Unmanned Aerial Vehicles in Indoor Construction Environments using an On-manifold Extended Kalman Filter - Automation in Construction, 2022
 
-- **Wenda Zhao**, Jacopo Panerati, and Angela P. Schoellig, Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2021
-
-- **Wenda Zhao**, Marijan Vukosavljev, and Angela P. Schoellig, Optimal Geometry for Ultra-wideband Localization using Bayesian Optimization - International Federation of Automatic Control (IFAC) World Congress, 2020
-
 - Kayhani, Navid, Adam Heins, **Wenda Zhao**, Mohammad Nahangi, Brenda McCabe, and Angela P. Schoellig. Improved tag-based indoor localization of UAVs using extended Kalman filter - International Symposium on Automation and Robotics in Construction (ISARC), 2019.
 
-- **Wenda Zhao**, Yongqing Su, Jiguang Yue, Huihua Mu, and Xuejiao Liu, Fragility Analysis and Weak Point Identification of Power Systems - In AOPC 2017: 3D Measurement Technology for Intelligent Manufacturing, 2017
+
 
 ## Life
 
