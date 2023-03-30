@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
   body {
     background-color: #222;
     color: #fff; /* Set text color to white to contrast with the dark background */
@@ -13,12 +13,15 @@
   h2 {
   color: white;
   }
+  strong {
+    color: white;
+  }
   @media only screen and (max-width: 600px) {
     body {
       background-size: contain;
     }
   }
-</style> -->
+</style>
 
 ## Short Bio
 
