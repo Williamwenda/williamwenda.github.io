@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   body {
     background-color: #222;
     color: #fff; /* Set text color to white to contrast with the dark background */
@@ -18,7 +18,7 @@
       background-size: contain;
     }
   }
-</style>
+</style> -->
 
 ## Short Bio
 
