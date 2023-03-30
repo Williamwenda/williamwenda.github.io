@@ -95,8 +95,8 @@ Customized quadrotor platform (DSL-drone)
 
 ## Contact Information and Links
 
-- Contact Wenda:  <br />
-  **wenda {dot} zhao {at} robotics {dot} utias {dot} utoronto {dot} ca**
+- Contact me:  <br />
+  **wenda.zhao@robotics.utias.utoronto.ca**
 - Or find him on [LinkedIn][1], [GitHub][2]
 <!-- - [Resume][cv] -->
 
