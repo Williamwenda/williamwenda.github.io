@@ -2,6 +2,9 @@
   body {
     background-color: #222;
     color: #fff; /* Set text color to white to contrast with the dark background */
+    section {
+      background-color: #fff;
+    }
     background-image: url({{ site.assets.image.background }});
     background-repeat: no-repeat;
     background-attachment: fixed;
