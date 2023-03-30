@@ -12,6 +12,8 @@ logo: /WendaZ.JPG
 plugins:
   - jekyll-redirect-from
 
-
+assets:
+  image:
+    background: /test.png
 
 
