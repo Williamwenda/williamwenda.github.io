@@ -1,11 +1,13 @@
 <style>
   body {
+    background-color: #222;
+    color: #fff; /* Set text color to white to contrast with the dark background */
     background-image: url({{ site.assets.image.background }});
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
-  
+
   @media only screen and (max-width: 600px) {
     body {
       background-size: contain;
