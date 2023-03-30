@@ -5,6 +5,12 @@
     background-attachment: fixed;
     background-size: cover;
   }
+  
+  @media only screen and (max-width: 600px) {
+    body {
+      background-size: contain;
+    }
+  }
 </style>
 
 ## Short Bio
