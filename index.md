@@ -24,7 +24,7 @@
 
 ## Short Bio
 
-Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a MASc degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended the exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
+Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] under Professor [Angela P. Schoellig][Angela_link]. He is also a Postgraduate Affiliated researcher at [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). He received a MASc degree in Electrical & Computer Engineer (ECE) from [Tongji University][tju] (Shanghai, China) in 2018. In 2016, he attended the exchange program in Robotics Technology at [RWTH Aachen University][rwth] (Aachen, Germany). 
 
 ## Current Research
 
@@ -51,7 +51,7 @@ Responsible for designing course materials, involving quadrotor PID controller, 
 
 - Undergraduate EngSci Thesis Supervision: <br /> 
 Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics.  <br />
-Incoming M.A.Sc. student under Professor Timothy D. Barfoot.
+Incoming M.A.Sc. student under Professor [Timothy D. Barfoot][Tim_link].
 
 ## First-Author Publications
 
@@ -126,3 +126,5 @@ Customized quadrotor platform (DSL-drone)
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
 [uwb-dataset]:https://utiasdsl.github.io/util-uwb-dataset/
 [Sam_linkedin]: https://www.linkedin.com/in/xinyuan-sam-qiao-8b15ba17a/?originalSubdomain=ca
+[Angela_link]: https://www.dynsyslab.org/prof-angela-schoellig/
+[Tim_link]: http://asrl.utias.utoronto.ca/~tdb/
