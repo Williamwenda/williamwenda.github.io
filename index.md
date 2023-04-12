@@ -50,8 +50,8 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
 - Undergraduate EngSci Thesis Supervision: <br /> 
-Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics.  <br />
-Incoming M.A.Sc. student under Professor [Timothy D. Barfoot][Tim_link].
+Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics Option.  <br />
+M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 ## First-Author Publications
 
