@@ -46,7 +46,7 @@ Wenda Zhao is a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [Univers
 
 ## Teaching
 
-- At *University of Toronto Institute for Aerospace Studies (UTIAS)*:  <br /> Teaching Assistant for [AER 1217H, Development of Autonomous UAS][aer1217]. <br />
+- Teaching Assistant for [AER 1217H, Development of Autonomous UAS][aer1217] at UTIAS, 2019 ~ 2023. <br />
 Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
 - Undergraduate EngSci Thesis Supervision: <br /> 
@@ -117,7 +117,7 @@ Customized quadrotor platform (DSL-drone)
 [RI]:https://robotics.utoronto.ca/
 [tju]:https://www.tongji.edu.cn/eng/
 [rwth]:https://www.rwth-aachen.de/go/id/a/?lidx=1
-[aer1217]:https://carre.utoronto.ca/aer1217
+[aer1217]:https://www.utias.utoronto.ca/graduate-students/course-descriptions/
 [bias-learning]:https://www.bitcraze.io/2020/04/learning-based-bias-correction-for-accurate-ultra-wideband-localization-of-a-crazyflie/
 [robust-filtering]:https://www.bitcraze.io/2021/06/robust-kalman-filter-for-ultra-wideband-localization/
 [release-202103]:https://github.com/bitcraze/crazyflie-firmware/releases/2021.03
