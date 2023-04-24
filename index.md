@@ -97,9 +97,9 @@ Customized quadrotor platform (DSL-drone)
 
 ## Contact Information and Links
 
-- Contact me:  <br />
+- Contact me via email:  <br />
   **wenda.zhao@robotics.utias.utoronto.ca**
-- Or find him on [LinkedIn][1], [GitHub][2]
+- Or find me on [LinkedIn][1] and [GitHub][2]
 <!-- - [Resume][cv] -->
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="wenda-zhao-uitas-vector-robotics123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/wenda-zhao-uitas-vector-robotics123?trk=profile-badge">Wenda Zhao</a></div>
               
@@ -110,7 +110,7 @@ Customized quadrotor platform (DSL-drone)
 </div>
 <br>
 
-[1]:www.linkedin.com/in/wenda-zhao-uitas-vector-robotics123
+[1]:https://linkedin.com/in/wenda-zhao-uitas-vector-robotics123
 [2]:https://github.com/Williamwenda
 
 [utias]:https://www.utias.utoronto.ca/
