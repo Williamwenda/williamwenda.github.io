@@ -24,7 +24,11 @@
 
 ## Short Bio
 
-Hello, welcome to my homepage. I am Wenda Zhao, a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program in Robotics Technology at [RWTH Aachen University][rwth], Germany. My research interests lie at the intersection of state estimation and machine learning for mobile robotics. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exists in nature.
+Hello, welcome to my homepage! 
+
+I am Wenda Zhao, a Ph.D. candidate in the [Dynamic System Lab (DSL)][dsl], [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program in Robotics Technology at [RWTH Aachen University][rwth], Germany. 
+
+My research interests lie at the intersection of state estimation and machine learning for mobile robotics. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exists in nature.
 
 ## Current Research
 
