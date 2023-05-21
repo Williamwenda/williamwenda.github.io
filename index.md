@@ -96,7 +96,7 @@ A fleet of customized drones (CF-Bolt).
 <img width="500" src="drone_fleet.jpg" >
 Customized quadrotor platform (DSL-drone)
 <img width="500" src="dsl-drone2.jpg" >
-<img width="500" src="customized-drone-with-me.png" >
+<!-- <img width="500" src="customized-drone-with-me.png" > -->
 <p>&nbsp;</p>
 
 ## Contact Information and Links
