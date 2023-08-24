@@ -111,7 +111,7 @@ Customized quadrotor platform (DSL-drone)
 [Tim_link]: http://asrl.utias.utoronto.ca/~tdb/
 
 [iros23_arxiv]: https://arxiv.org/abs/2307.16848
-[ijrr_dataset_arxiv]: https://utiasdsl.github.io/util-uwb-dataset/
+[ijrr_dataset_arxiv]: https://arxiv.org/abs/2203.14471v4
 [ral22_icra23_arxiv]: https://arxiv.org/abs/2204.04508
 [ral_icra21_arxiv]: https://arxiv.org/abs/2103.01885
 [ifac20]: https://www.sciencedirect.com/science/article/pii/S2405896320330433
