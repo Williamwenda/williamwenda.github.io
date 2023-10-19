@@ -67,12 +67,13 @@ Christmas Video (2020)
 
 Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/utias_welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
-### Customized Quadcopters Design
-A fleet of customized drones (CF-Bolt).
+### Customized Robot Platform 
+A fleet of customized drones with CF-Bolt flight controller.
 <img width="500" src="drone_fleet.jpg" >
-Customized quadrotor platform (DSL-drone)
+Customized quadrotor platform with Pixhawk flight controller.
 <img width="500" src="dsl-drone2.jpg" >
-<!-- <img width="500" src="customized-drone-with-me.png" > -->
+UWB-Inertial trackers with Raspberry Pi 4B.
+<img width="500" src="uwb_tracker.jpg">
 <p>&nbsp;</p>
 
 ## Contact Information and Links
