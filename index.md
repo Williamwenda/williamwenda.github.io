@@ -49,6 +49,8 @@ M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 ## Collaborated Publications
 
+- Abhishek Goudar, **Wenda Zhao**, and Angela P. Schoellig, Range-visual-inertial sensor fusion for micro aerial vehicle localization and navigation - IEEE Robotics and Automation Letters (RA-L), 2023. [[paper][rvi_ral23]].
+
 - Abhishek Goudar, **Wenda Zhao**, Timothy D. Barfoot, and Angela P. Schoellig, Gaussian Variational Inference with Covariance Constraints Applied to Range-only Localization - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. [[paper][iros22]].
 
 - Siqi Zhou, Karime Pereida, **Wenda Zhao**, and Angela P. Schoellig, Bridging the Model-Reality Gap with Lipschitz Network Adaptation - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2022. [[paper][ral_icra_22]].
@@ -123,3 +125,4 @@ UWB-Inertial trackers with Raspberry Pi 4B.
 [auto_con_22]: https://www.sciencedirect.com/science/article/pii/S092658052100563X
 [isarc_19]: https://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/improved_tag_based_indoor_localization_of_uavs_using_extended_kalman_filter.html
 
+[rvi_ral23]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10325583
