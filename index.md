@@ -2,7 +2,7 @@
 
 Hello, welcome to my homepage! 
 
-I am Wenda Zhao, a Ph.D. candidate in the [Learning System and Robotics Lab][dsl] at the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program at [RWTH Aachen University][rwth], Germany. 
+I am Wenda Zhao, a Ph.D. candidate in the [Learning System and Robotics Lab][dsl] at the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] and [Technische Universität München][tum] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada) and [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] (Munich, Bavaria, Germany). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program at [RWTH Aachen University][rwth], Germany. 
 
 My research interests lie at the intersection of state estimation and machine learning for mobile robotics. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
 
@@ -96,6 +96,7 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [3]:https://github.com/Williamwenda
 [utias]:https://www.utias.utoronto.ca/
 [tum]: https://www.tum.de/en/
+[mirmi]: https://www.mirmi.tum.de/en/mirmi/home/
 [dsl]:http://www.dynsyslab.org/
 [VI]:https://vectorinstitute.ai/
 [RI]:https://robotics.utoronto.ca/
