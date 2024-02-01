@@ -2,7 +2,7 @@
 
 Hello, welcome to my homepage! 
 
-I am Wenda Zhao, a Ph.D. candidate in the [Learning System and Robotics Lab][dsl] at the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] and [Technische Universität München][tum] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada) and [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] (Munich, Bavaria, Germany). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program at [RWTH Aachen University][rwth], Germany. 
+I am Wenda Zhao, a Ph.D. candidate in the [Learning System and Robotics Lab][dsl] at the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] and [Technische Universität München (TUM)][tum] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada) and [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] (Munich, Bavaria, Germany). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program at [RWTH Aachen University][rwth], Germany. 
 
 My research interests lie at the intersection of state estimation and machine learning for mobile robotics. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
 
@@ -37,7 +37,7 @@ M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 - **Wenda Zhao**, Abhishek Goudar, Mingliang Tang, Xinyuan Qiao, and Angela P. Schoellig, Uncertainty-aware Gaussian Mixture Model for UWB Time Difference of Arrival Localization in Cluttered Environments - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. [[paper][iros23_arxiv]]. 
 
-- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR), (Accepted). [[paper][ijrr_dataset_arxiv]], [[webpage][uwb-dataset]]. 
+- **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR), 2024. [[paper][ijrr_dataset_arxiv]], [[webpage][uwb-dataset]]. 
 
 - **Wenda Zhao**, Abhishek Goudar, and Angela P. Schoellig, Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments - IEEE Robotics and Automation Letters (RA-L), presented at ICRA, 2023. [[paper][ral22_icra23_arxiv]].
 
