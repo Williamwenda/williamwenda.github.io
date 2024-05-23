@@ -30,7 +30,7 @@ My research interests lie at the intersection of state estimation and machine le
 Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
 - Undergraduate EngSci Thesis Supervision: <br /> 
-Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics Option.  <br />
+Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. ([video][relative_loc]) <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics Option.  <br />
 M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 ## First-Author Publications
@@ -127,3 +127,5 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [isarc_19]: https://www.iaarc.org/publications/2019_proceedings_of_the_36th_isarc/improved_tag_based_indoor_localization_of_uavs_using_extended_kalman_filter.html
 
 [rvi_ral23]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10325583
+
+[relative_loc]: https://youtu.be/7EYpe-nck58
