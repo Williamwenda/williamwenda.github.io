@@ -35,6 +35,8 @@ M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 ## First-Author Publications
 
+- **Wenda Zhao<sup>&dagger;</sup>**, Abhishek Goudar<sup>&dagger;</sup>, Mingliang Tang<sup>&dagger;</sup>, and Angela P. Schoellig, Ultra-wideband Time Difference of Arrival Indoor Localization: From Sensor Placement Analysis to System Evaluation - IEEE Robotics and Automation Magazine (RA-M), 2024. (&dagger; : equal contribution) [Under Review].
+
 - **Wenda Zhao**, Abhishek Goudar, Mingliang Tang, Xinyuan Qiao, and Angela P. Schoellig, Uncertainty-aware Gaussian Mixture Model for UWB Time Difference of Arrival Localization in Cluttered Environments - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. [[paper][iros23_arxiv]]. 
 
 - **Wenda Zhao**, Abhishek Goudar, Xinyuan Qiao, and Angela P. Schoellig, UTIL: An Ultra-wideband Time-difference-of-arrival Indoor Localization Dataset - International Journal of Robotics Research (IJRR), 2024. [[paper][ijrr_dataset_arxiv]], [[webpage][uwb-dataset]]. 
