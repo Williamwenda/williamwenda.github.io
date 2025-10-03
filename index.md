@@ -84,8 +84,7 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 
 - Contact me via email:  <br />
   **wenda.zhao@robotics.utias.utoronto.ca**
-- Links: [LinkedIn][1], [Google Scholar][2], [GitHub][3]
-<!-- - [Resume][cv] -->
+- Links: [LinkedIn][1], [Google Scholar][2], [GitHub][3], [Resume][cv]
 
 <br>
 <div style="margin:10px auto;height: 245px; pointer-events: none;">
@@ -96,6 +95,7 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [1]:https://linkedin.com/in/wenda-zhao-uitas-vector-robotics123
 [2]:https://scholar.google.com/citations?user=iuxmmX8AAAAJ&hl=en
 [3]:https://github.com/Williamwenda
+[cv]:Wenda_CV.pdf
 [utias]:https://www.utias.utoronto.ca/
 [tum]: https://www.tum.de/en/
 [mirmi]: https://www.mirmi.tum.de/en/mirmi/home/
