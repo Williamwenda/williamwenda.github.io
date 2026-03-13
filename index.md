@@ -7,9 +7,16 @@ title: About
 
 Hello, welcome to my homepage!
 
+<div style="display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start;margin-bottom:16px;">
+  <img src="/wenda_toronto_island.jpg" alt="Wenda Zhao" style="width:180px;border-radius:8px;flex-shrink:0;">
+  <div>
+
 I am Wenda Zhao, a Postdoctoral Researcher at [Autonomous Space Robotics Lab (ASRL)][asrl_link] working with Professor [Timothy D. Barfoot][Tim_link]. I hold a Ph.D. in Artificial Intelligence and Robotics from the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias], where I was advised by Professor [Angela P. Schoellig][Angela_link] in the [Learning Systems and Robotics Lab (LSY)][lsy]. I am also an Affiliated Researcher at the [Vector Institute][VI] and the [University of Toronto Robotics Institute][RI]. In 2024, I was a visiting researcher at [Technische Universität München (TUM)][tum] and the [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] in Munich, Germany. I am also a core member of the [University of Toronto Autonomous Drone Racing][utadr_link] team, where we advanced to the finals of the first season of [A2RL Autonomous Drone Championship][a2rl_link]. Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018.
 
 My research focuses on bridging artificial intelligence and robotics technology. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
+
+  </div>
+</div>
 
 ## Current Research
 
@@ -19,10 +26,10 @@ My research focuses on bridging artificial intelligence and robotics technology.
 
 ## Current Projects
 
-- Robust filtering and learning-based Ultra-wideband (UWB) bias correction ([Blog1: bias learning][bias-learning], [Blog2: robust filtering][robust-filtering])
-- Large-scale UWB-based localization system design
-- Robust state estimation for mobile robots
-- Relative localization and coordination for swarm robots
+- **Degeneracy-Resilient LiDAR-based Teach-and-Repeat Navigation** — developing Lidar-based robust, topometric autonomous navigation pipelines for ground robots operating in challenging outdoor environments.
+- **Foundation Model-based Scene Understanding** — leveraging large vision-language models (VLM) to enrich robot perception with semantic and contextual awareness beyond classical geometry.
+- **AI-enabled Autonomous Drone Racing** — building AI-enabled drone racing system for high-speed autonomous flight in competitive racing scenarios.
+
 
 ## Open Source Projects
 
