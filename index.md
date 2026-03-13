@@ -2,15 +2,16 @@
 
 Hello, welcome to my homepage! 
 
-I am Wenda Zhao, a Ph.D. candidate in the [Learning System and Robotics Lab][dsl] at the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias] and [Technische Universität München (TUM)][tum] under Professor [Angela P. Schoellig][Angela_link]. I am also a Postgraduate Affiliated researcher at the [University of Toronto Robotics Institute][RI] and [Vector Institute][VI] (Toronto, ON, Canada) and [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] (Munich, Bavaria, Germany). Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018. In the summer of 2016, I had the opportunity to attend the exchange program at [RWTH Aachen University][rwth], Germany. 
+I am Wenda Zhao, a Postdoctoral Researcher at [Autonomous Space Robotics Lab (ASRL)][asrl_link] working with Professor [Timothy D. Barfoot][Tim_link]. I hold a Ph.D. in Artificial Intelligence and Robotics from the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias], where I was advised by Professor [Angela P. Schoellig][Angela_link] in the [Learning Systems and Robotics Lab (LSY)][lsy]. I am also an Affiliated Researcher at the [Vector Institute][VI] and the [University of Toronto Robotics Institute][RI].  In 2024, I was a visiting researcher at [Technische Universität München (TUM)][tum] and the [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] in Munich, Germany. I am also a core member of the [University of Toronto Autonomous Drone Racing][utadr_link] team, where we advanced to the finals of the first season of [A2RL Autonomous Drone Championship][a2rl_link]. Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018.
 
-My research interests lie at the intersection of state estimation and machine learning for mobile robotics. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
+My research focuses on bridging artificial intelligence and robotics technology. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
+
 
 ## Current Research
 
-- Bayesian Estimation and Variational Inference
-- Robust non-Gaussian Inference and Optimization 
-- Factor Graph-based State Estimation
+- **State Estimation and SLAM** — robust and probabilistic methods for localization, mapping, and sensor fusion in challenging real-world environments.
+- **Spatial AI** — combining geometric localization with foundation-model-based scene understanding for robust robot navigation in complex environments.
+- **High-Speed Drone Racing** — pushing the limits of autonomous navigation, perception, and control under extreme agility and speed.
 
 ## Current Projects
 
@@ -26,12 +27,16 @@ My research interests lie at the intersection of state estimation and machine le
 
 ## Teaching
 
-- Teaching Assistant for [AER 1217H, Development of Autonomous UAS][aer1217] at UTIAS, 2019 ~ 2023. <br />
-Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
+- Master of Applied Science Student Supervision (2025): <br /> 
+Efficient Doppler Lidar Localization for Robust Autonomous Navigation.  <br />[Katya M Papais][katya_g_scholar], Master of Applied Science (MASc), University of Toronto.  <br />
+Research Assistant (2026) in [ASRL][asrl_link] under Professor [Timothy D. Barfoot][Tim_link].
 
-- Undergraduate EngSci Thesis Supervision: <br /> 
+- Undergraduate EngSci Thesis Supervision (2023): <br /> 
 Multi-Quadrotor Cooperative Fight with UWB-aided Relative State Estimation and Control. ([video][relative_loc]) <br />[Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics Option.  <br />
 M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
+
+- Teaching Assistant for [AER 1217H, Development of Autonomous UAS][aer1217] at UTIAS, 2019 ~ 2023. <br />
+Responsible for designing course materials, involving quadrotor PID controller, vision-based georeferencing, stereo camera visual odometry, and path planning algorithms. 
 
 ## First-Author Publications
 
@@ -65,19 +70,32 @@ M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
 
 ## Life
 
-### Video Editing 
+### Interesting Videos
+Autonomous Drone Racing Competition
+[![Autonomous Drone Racing](/utadr.jpeg)](https://youtu.be/8a0MNig_Kc8 "Autonomous Drone Racing") 
+
+UWB-Inertial Pedestrian Tracking 
+[![UWB-Inertial Tracking](/uwb_tracking.jpg)](http://tiny.cc/uwb_tdoa_sys "UWB-Inertial Tracking") 
+
 Christmas Video (2020)
 [![Christmas Video (2020)](/xmas_20.png)](https://www.youtube.com/watch?v=54fA6etaOFo "Christmas Video (2020)") 
 
 Welcome to the Dynamic Systems Lab (2018)
 [![Welcome (2018)](/utias_welcome.png)](https://www.youtube.com/watch?v=KzGW4S400gU "Welcome (2018)") 
-### Customized Robot Platform 
+
+### Some Robot Platform I have worked with 
+Lidar-based drone platform  
+<img width="500" src="lidar_drone.jpg" >
+Visual-inertial drone racing platform  
+<img width="500" src="vision_drone.jpg" >
+Lidar sensing platform (Sense Cube) 
+<img width="500" src="sense_cube.jpg" >
+Warthog offroad unmanned ground vehicle (UGV) 
+<img width="500" src="warthog_yzd.jpg" >
 A fleet of customized drones with CF-Bolt flight controller.
 <img width="500" src="drone_fleet.jpg" >
-Customized quadrotor platform with Pixhawk flight controller.
-<img width="500" src="dsl-drone2.jpg" >
 UWB-Inertial handheld device with Raspberry Pi 4B.
-<img width="500" src="uwb_tracker.jpg">
+<img width="500" src="uwb_tracking_sys.jpeg">
 <p>&nbsp;</p>
 
 ## Contact Information and Links
@@ -99,7 +117,7 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [utias]:https://www.utias.utoronto.ca/
 [tum]: https://www.tum.de/en/
 [mirmi]: https://www.mirmi.tum.de/en/mirmi/home/
-[dsl]:http://www.dynsyslab.org/
+[lsy]:http://www.dynsyslab.org/
 [VI]:https://vectorinstitute.ai/
 [RI]:https://robotics.utoronto.ca/
 [tju]:https://www.tongji.edu.cn/eng/
@@ -113,8 +131,10 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [PR-745]:https://github.com/bitcraze/crazyflie-firmware/pull/745
 [uwb-dataset]:https://utiasdsl.github.io/util-uwb-dataset/
 [Sam_linkedin]: https://www.linkedin.com/in/xinyuan-sam-qiao-8b15ba17a/?originalSubdomain=ca
+[katya_g_scholar]: https://scholar.google.com/citations?user=ELPyVVAAAAAJ&hl=en
 [Angela_link]: https://www.dynsyslab.org/prof-angela-schoellig/
 [Tim_link]: http://asrl.utias.utoronto.ca/~tdb/
+[asrl_link]: https://asrl.utias.utoronto.ca/
 
 [iros23_arxiv]: https://arxiv.org/abs/2307.16848
 [ijrr_dataset_arxiv]: https://arxiv.org/abs/2203.14471v4
@@ -131,3 +151,9 @@ UWB-Inertial handheld device with Raspberry Pi 4B.
 [rvi_ral23]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10325583
 
 [relative_loc]: https://youtu.be/7EYpe-nck58
+
+[drone_racing_video]: https://youtu.be/8a0MNig_Kc8
+[uwb_tracking]: http://tiny.cc/uwb_tdoa_sys
+
+[a2rl_link]: https://a2rl.io/autonomous-drone-race
+[utadr_link]: https://adr.utias.utoronto.ca/
