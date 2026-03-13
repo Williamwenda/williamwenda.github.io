@@ -89,32 +89,32 @@ document.addEventListener('keydown', function(e) {
 
 <table style="border:none;border-collapse:collapse;">
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>Lidar-based drone platform</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Lidar-based drone platform</strong><br><br>
   <img class="zoomable" src="/lidar_drone.jpg" alt="Lidar drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>Visual-inertial drone racing platform</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Visual-inertial drone racing platform</strong><br><br>
   <img class="zoomable" src="/vision_drone.jpeg" alt="Vision drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>Lidar sensing platform (Sense Cube)</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Lidar sensing platform (Sense Cube)</strong><br><br>
   <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>Warthog UGV for off-road field navigation</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Warthog UGV for off-road field navigation</strong><br><br>
   <img class="zoomable" src="/warthog_yzd.jpg" alt="Warthog UGV" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>Customized drones fleet</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Customized drones fleet</strong><br><br>
   <img class="zoomable" src="/drone_fleet.jpg" alt="Drone fleet" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:middle;width:50%;text-align:center;">
-  <strong>UWB-Inertial tracking system</strong><br>
+<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>UWB-Inertial tracking system</strong><br><br>
   <img class="zoomable" src="/uwb_tracking_sys.jpeg" alt="UWB tracking system" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
