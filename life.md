@@ -104,7 +104,7 @@ document.addEventListener('keydown', function(e) {
   <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 <td style="border:none;padding:8px;vertical-align:top;width:50%;">
-  <strong><a Clearpath Warthog UGV for outdoor autonomous navigation</strong><br>
+  <strong>a Clearpath Warthog UGV for outdoor autonomous navigation</strong><br>
   <img class="zoomable" src="/warthog_yzd.jpg" alt="Warthog UGV" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
