@@ -5,7 +5,7 @@ title: Publications
 
 ## First-Author Publications
 
-- **Wenda Zhao<sup>&dagger;</sup>**, Abhishek Goudar<sup>&dagger;</sup>, Mingliang Tang<sup>&dagger;</sup>, and Angela P. Schoellig, Ultra-wideband Time Difference of Arrival Indoor Localization: From Sensor Placement Analysis to System Evaluation — *IEEE Robotics and Automation Magazine (RA-M)*, 2024. (&dagger;: equal contribution) \[under review\]
+- **Wenda Zhao\***, Abhishek Goudar\*, Mingliang Tang\*, and Angela P. Schoellig, Ultra-wideband Time Difference of Arrival Indoor Localization: From Sensor Placement Analysis to System Evaluation — *IEEE Robotics and Automation Magazine (RA-M)*, 2024. (\*: equal contribution) \[under review\]
 
 - **Wenda Zhao**, Abhishek Goudar, Mingliang Tang, Xinyuan Qiao, and Angela P. Schoellig, Uncertainty-aware Gaussian Mixture Model for UWB Time Difference of Arrival Localization in Cluttered Environments — *IEEE/RSJ IROS*, 2023. \[[paper][iros23_arxiv]\]
 
