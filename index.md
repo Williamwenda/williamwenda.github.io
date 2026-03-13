@@ -26,16 +26,17 @@ My research focuses on bridging artificial intelligence and robotics technology.
 
 ## Current Projects
 
-- **Degeneracy-Resilient LiDAR-based Teach-and-Repeat Navigation** — developing Lidar-based robust, topometric autonomous navigation pipelines for ground robots operating in challenging outdoor environments.
+- **Degeneracy-Resilient LiDAR-based Teach-and-Repeat Navigation** — developing lidar-based robust, topometric autonomous navigation pipelines for ground robots operating in challenging outdoor environments.
 - **Foundation Model-based Scene Understanding** — leveraging large vision-language models (VLM) to enrich robot perception with semantic and contextual awareness beyond classical geometry.
 - **AI-enabled Autonomous Drone Racing** — building AI-enabled drone racing system for high-speed autonomous flight in competitive racing scenarios.
 
 
 ## Open Source Projects
-
-- M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged)][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
-- M-estimation based robust Kalman filter for UWB TWR measurements. [PR #745, (merged)][PR-745] Included in the [Bitcraze Code Release 2021.06][release-202106]
+- Degeneracy-resilient teach and repeat navigation using Doppler lidar. ([Visual Teach & Repeat 3 (VT&R3)][vtr_link])
 - UTIL: Ultra-wideband Dataset ([webpage][uwb-dataset])
+- M-estimation based robust Kalman filter for UWB TDOA measurements. [PR #707, (merged).][PR-707] Included in the [Bitcraze Code Release 2021.03][release-202103]
+- M-estimation based robust Kalman filter for UWB TWR measurements. [PR #745, (merged).][PR-745] Included in the [Bitcraze Code Release 2021.06][release-202106]
+
 
 ## Contact
 
@@ -70,3 +71,4 @@ My research focuses on bridging artificial intelligence and robotics technology.
 [asrl_link]: https://asrl.utias.utoronto.ca/
 [a2rl_link]: https://a2rl.io/autonomous-drone-race
 [utadr_link]: https://adr.utias.utoronto.ca/
+[vtr_link]: https://github.com/utiasASRL/vtr3
