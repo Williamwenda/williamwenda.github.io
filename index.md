@@ -18,15 +18,15 @@ Hello, welcome to my homepage!
 
 ## Current Research
 
-- **State Estimation and SLAM** — robust and probabilistic methods for localization, mapping, and sensor fusion in challenging real-world environments.
-- **Spatial AI** — combining geometric localization with foundation-model-based scene understanding for robust robot navigation in complex environments.
-- **High-Speed Drone Racing** — pushing the limits of autonomous navigation, perception, and control under extreme agility and speed.
+- <span class="hl">State Estimation and SLAM</span> — robust and probabilistic methods for localization, mapping, and sensor fusion in challenging real-world environments.
+- <span class="hl">Spatial AI</span> — combining geometric localization with foundation-model-based scene understanding for robust robot navigation in complex environments.
+- <span class="hl">High-Speed Drone Racing</span> — pushing the limits of autonomous navigation, perception, and control under extreme agility and speed.
 
 ## Current Projects
 
-- **Degeneracy-Resilient LiDAR-based Teach-and-Repeat Navigation** — developing lidar-based robust, topometric autonomous navigation pipelines for ground robots operating in challenging outdoor environments.
-- **Foundation Model-based Scene Understanding** — leveraging large vision-language models (VLM) to enrich robot perception with semantic and contextual awareness beyond classical geometry.
-- **AI-enabled Autonomous Drone Racing** — building AI-enabled drone racing system for high-speed autonomous flight in competitive racing scenarios.
+- <span class="hl">Degeneracy-Resilient LiDAR-based Teach-and-Repeat Navigation</span> — developing lidar-based robust, topometric autonomous navigation pipelines for ground robots operating in challenging outdoor environments.
+- <span class="hl">Foundation Model-based Scene Understanding</span> — leveraging large vision-language models (VLM) to enrich robot perception with semantic and contextual awareness beyond classical geometry.
+- <span class="hl">AI-enabled Autonomous Drone Racing</span> — building AI-enabled drone racing system for high-speed autonomous flight in competitive racing scenarios.
 
 
 ## Open Source Projects
