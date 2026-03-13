@@ -98,12 +98,12 @@ document.addEventListener('keydown', function(e) {
 </td>
 </tr>
 <!-- Row 1: images -->
-<tr style="border:none;">
+<tr style="border:none;height:280px;">
 <td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
-  <img class="zoomable" src="/lidar_drone.jpg" alt="Lidar drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
+  <img class="zoomable" src="/lidar_drone.jpg" alt="Lidar drone" style="max-width:340px;max-height:260px;width:auto;height:auto;" onclick="openLightbox(this.src, this.alt)">
 </td>
 <td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
-  <img class="zoomable" src="/vision_drone.jpeg" alt="Vision drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
+  <img class="zoomable" src="/vision_drone.jpeg" alt="Vision drone" style="max-width:340px;max-height:260px;width:auto;height:auto;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 <!-- Row 2: captions -->
@@ -116,7 +116,7 @@ document.addEventListener('keydown', function(e) {
 </td>
 </tr>
 <!-- Row 2: images -->
-<tr style="border:none;">
+<tr style="border:none;height:300px;">
 <td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
@@ -133,13 +133,13 @@ document.addEventListener('keydown', function(e) {
   <strong>UWB-Inertial tracking system</strong>
 </td>
 </tr>
-<!-- Row 3: images -->
-<tr style="border:none;">
+<!-- Row 2: images -->
+<tr style="border:none;height:280px;">
 <td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
-  <img class="zoomable" src="/drone_fleet.jpg" alt="Drone fleet" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
+  <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="max-width:340px;max-height:260px;width:auto;height:auto;" onclick="openLightbox(this.src, this.alt)">
 </td>
 <td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
-  <img class="zoomable" src="/uwb_tracking_sys.jpeg" alt="UWB tracking system" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
+  <img class="zoomable" src="/warthog_yzd.jpg" alt="Warthog UGV" style="max-width:340px;max-height:260px;width:auto;height:auto;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 </table>
