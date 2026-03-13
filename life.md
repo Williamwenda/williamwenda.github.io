@@ -104,17 +104,17 @@ document.addEventListener('keydown', function(e) {
   <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 <td style="border:none;padding:8px;vertical-align:top;width:50%;">
-  <strong>a Clearpath Warthog UGV for outdoor autonomous navigation</strong><br>
+  <strong>Warthog UGV for off-road field navigation</strong><br>
   <img class="zoomable" src="/warthog_yzd.jpg" alt="Warthog UGV" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 <tr style="border:none;">
 <td style="border:none;padding:8px;vertical-align:top;width:50%;">
-  <strong>A fleet of customized drones with CF-Bolt flight controller</strong><br>
+  <strong>Customized drones fleet</strong><br>
   <img class="zoomable" src="/drone_fleet.jpg" alt="Drone fleet" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 <td style="border:none;padding:8px;vertical-align:top;width:50%;">
-  <strong>UWB-Inertial handheld device with Raspberry Pi 4B</strong><br>
+  <strong>UWB-Inertial tracking system</strong><br>
   <img class="zoomable" src="/uwb_tracking_sys.jpeg" alt="UWB tracking system" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
