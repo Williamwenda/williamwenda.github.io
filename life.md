@@ -95,7 +95,7 @@ document.addEventListener('keydown', function(e) {
 </td>
 <td style="border:none;padding:8px;vertical-align:top;width:50%;">
   <strong>Visual-inertial drone racing platform</strong><br>
-  <img class="zoomable" src="/vision_drone.jpg" alt="Vision drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
+  <img class="zoomable" src="/vision_drone.jpeg" alt="Vision drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
 <tr style="border:none;">
