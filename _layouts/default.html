@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <link rel="icon" href="/wenda.ico" />
+  <style>
+    /* ── Base ── */
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #24292e;
+      background: #ffffff;
+      margin: 0;
+      transition: background 0.3s, color 0.3s;
+    }
+    a { color: #0366d6; }
+    a:hover { color: #024ea4; }
+    img { max-width: 100%; }
+
+    /* ── Nav bar ── */
+    .nav-bar {
+      position: sticky;
+      top: 0;
+      z-index: 999;
+      background: #fff;
+      border-bottom: 1px solid #e1e4e8;
+      padding: 0 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 4px;
+      align-items: center;
+      min-height: 48px;
+    }
+    .nav-bar .site-name {
+      font-weight: 700;
+      font-size: 1em;
+      color: #24292e;
+      text-decoration: none;
+      margin-right: 16px;
+      white-space: nowrap;
+    }
+    .nav-bar a.nav-link {
+      text-decoration: none;
+      font-size: 0.9em;
+      font-weight: 500;
+      color: #586069;
+      padding: 14px 10px;
+      border-bottom: 3px solid transparent;
+      transition: color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+    }
+    .nav-bar a.nav-link:hover,
+    .nav-bar a.nav-link.active {
+      color: #24292e;
+      border-bottom-color: #0366d6;
+    }
+    .nav-bar .cv-btn {
+      text-decoration: none;
+      font-size: 0.85em;
+      font-weight: 600;
+      color: #fff;
+      background: #0366d6;
+      border-radius: 6px;
+      padding: 5px 12px;
+      margin-left: 8px;
+      transition: background 0.2s;
+      white-space: nowrap;
+    }
+    .nav-bar .cv-btn:hover { background: #024ea4; color: #fff; }
+
+    /* ── Dark mode toggle ── */
+    #dark-toggle {
+      margin-left: auto;
+      background: none;
+      border: 1px solid #d1d5da;
+      border-radius: 20px;
+      padding: 4px 14px;
+      cursor: pointer;
+      font-size: 0.82em;
+      color: #586069;
+      transition: border-color 0.2s, color 0.2s;
+      white-space: nowrap;
+    }
+    #dark-toggle:hover { border-color: #0366d6; color: #0366d6; }
+
+    /* ── Page wrapper ── */
+    .page-wrapper {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Dark mode ── */
+    body.dark {
+      background: #0d1117;
+      color: #c9d1d9;
+    }
+    body.dark a { color: #58a6ff; }
+    body.dark a:hover { color: #79b8ff; }
+    body.dark .nav-bar {
+      background: #161b22;
+      border-bottom-color: #30363d;
+    }
+    body.dark .nav-bar .site-name { color: #c9d1d9; }
+    body.dark .nav-bar a.nav-link { color: #8b949e; }
+    body.dark .nav-bar a.nav-link:hover,
+    body.dark .nav-bar a.nav-link.active { color: #c9d1d9; border-bottom-color: #58a6ff; }
+    body.dark .cv-btn { background: #1f6feb; }
+    body.dark .cv-btn:hover { background: #388bfd; }
+    body.dark #dark-toggle { border-color: #30363d; color: #8b949e; }
+    body.dark #dark-toggle:hover { border-color: #58a6ff; color: #58a6ff; }
+
+    /* ── Typography ── */
+    h1, h2, h3 { font-weight: 600; line-height: 1.3; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid #e1e4e8; padding-bottom: 6px; margin-top: 40px; }
+    body.dark h2 { border-bottom-color: #30363d; }
+    h3 { font-size: 1.1em; margin-top: 28px; }
+    ul { padding-left: 1.4em; }
+    li { margin-bottom: 6px; }
+    p { margin: 12px 0; }
+  </style>
+</head>
+<body>
+
+<nav class="nav-bar">
+  <a class="site-name" href="/">Wenda Zhao</a>
+  <a class="nav-link{% if page.url == '/' or page.url == '/index.html' %} active{% endif %}" href="/">About</a>
+  <a class="nav-link{% if page.url contains 'publications' %} active{% endif %}" href="/publications">Publications</a>
+  <a class="nav-link{% if page.url contains 'teaching' %} active{% endif %}" href="/teaching">Teaching</a>
+  <a class="nav-link{% if page.url contains 'life' %} active{% endif %}" href="/life">Videos & Robots</a>
+  <a class="cv-btn" href="/Wenda_CV.pdf" target="_blank">CV ↗</a>
+  <button id="dark-toggle">🌙 Dark</button>
+</nav>
+
+<div class="page-wrapper">
+  {{ content }}
+</div>
+
+<script>
+  // Persist dark mode with localStorage
+  const toggle = document.getElementById('dark-toggle');
+  if (localStorage.getItem('dark') === '1') {
+    document.body.classList.add('dark');
+    toggle.textContent = '☀ Light';
+  }
+  toggle.addEventListener('click', () => {
+    const isDark = document.body.classList.toggle('dark');
+    toggle.textContent = isDark ? '☀ Light' : '🌙 Dark';
+    localStorage.setItem('dark', isDark ? '1' : '0');
+  });
+</script>
+
+</body>
+</html>

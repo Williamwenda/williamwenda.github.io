@@ -1,19 +1,7 @@
-theme: jekyll-theme-minimal
-
 title: Wenda Zhao
 description: Believer in Bayes rule :)
 
-
-logo: /wenda_toronto_island.jpg
-
-# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-# google_analytics: [Your Google Analytics tracking ID]
-
 plugins:
   - jekyll-redirect-from
-
-assets:
-  image:
-    background: /background.jpg
 
 
