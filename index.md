@@ -7,15 +7,12 @@ title: About
 
 Hello, welcome to my homepage!
 
-<div style="display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start;margin-bottom:16px;">
-  <img src="/wenda_toronto_island.jpg" alt="Wenda Zhao" style="width:180px;border-radius:8px;flex-shrink:0;">
-  <div>
-
-I am Wenda Zhao, a Postdoctoral Researcher at [Autonomous Space Robotics Lab (ASRL)][asrl_link] working with Professor [Timothy D. Barfoot][Tim_link]. I hold a Ph.D. in Artificial Intelligence and Robotics from the [University of Toronto Institute for Aerospace Studies (UTIAS)][utias], where I was advised by Professor [Angela P. Schoellig][Angela_link] in the [Learning Systems and Robotics Lab (LSY)][lsy]. I am also an Affiliated Researcher at the [Vector Institute][VI] and the [University of Toronto Robotics Institute][RI]. In 2024, I was a visiting researcher at [Technische Universität München (TUM)][tum] and the [Munich Institute of Robotics and Machine Intelligence (MIRMI)][mirmi] in Munich, Germany. I am also a core member of the [University of Toronto Autonomous Drone Racing][utadr_link] team, where we advanced to the finals of the first season of [A2RL Autonomous Drone Championship][a2rl_link]. Before coming to Toronto, I earned a MASc degree in Electrical & Computer Engineering (ECE) from [Tongji University][tju] in Shanghai, China in 2018.
-
-My research focuses on bridging artificial intelligence and robotics technology. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.
-
+<div style="display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;margin-bottom:16px;">
+  <div style="flex:1;min-width:260px;">
+    <p>I am Wenda Zhao, a Postdoctoral Researcher at <a href="https://asrl.utias.utoronto.ca/">Autonomous Space Robotics Lab (ASRL)</a> working with Professor <a href="http://asrl.utias.utoronto.ca/~tdb/">Timothy D. Barfoot</a>. I hold a Ph.D. in Artificial Intelligence and Robotics from the <a href="https://www.utias.utoronto.ca/">University of Toronto Institute for Aerospace Studies (UTIAS)</a>, where I was advised by Professor <a href="https://www.dynsyslab.org/prof-angela-schoellig/">Angela P. Schoellig</a> in the <a href="http://www.dynsyslab.org/">Learning Systems and Robotics Lab (LSY)</a>. I am also an Affiliated Researcher at the <a href="https://vectorinstitute.ai/">Vector Institute</a> and the <a href="https://robotics.utoronto.ca/">University of Toronto Robotics Institute</a>. In 2024, I was a visiting researcher at <a href="https://www.tum.de/en/">Technische Universität München (TUM)</a> and the <a href="https://www.mirmi.tum.de/en/mirmi/home/">Munich Institute of Robotics and Machine Intelligence (MIRMI)</a> in Munich, Germany. I am also a core member of the <a href="https://adr.utias.utoronto.ca/">University of Toronto Autonomous Drone Racing</a> team, where we advanced to the finals of the first season of <a href="https://a2rl.io/autonomous-drone-race">A2RL Autonomous Drone Championship</a>. Before coming to Toronto, I earned a MASc degree in Electrical &amp; Computer Engineering (ECE) from <a href="https://www.tongji.edu.cn/eng/">Tongji University</a> in Shanghai, China in 2018.</p>
+    <p>My research focuses on bridging artificial intelligence and robotics technology. Meanwhile, I enjoy robotics hardware and software co-design. I am fascinated by the ability of robots to sense and interact with the physical world, which reminds us of the beauty and wonder that exist in nature.</p>
   </div>
+  <img src="/wenda_toronto_island.jpg" alt="Wenda Zhao" style="width:200px;border-radius:8px;flex-shrink:0;">
 </div>
 
 ## Current Research
