@@ -87,34 +87,58 @@ document.addEventListener('keydown', function(e) {
 
 ## Robot Platforms I Have Worked With
 
-<table style="border:none;border-collapse:collapse;">
+<table style="border:none;border-collapse:collapse;width:100%;">
+<!-- Row 1: captions -->
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>Lidar-based drone platform</strong><br><br>
+<td style="border:none;padding:4px 8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Lidar-based drone platform</strong>
+</td>
+<td style="border:none;padding:4px 8px;vertical-align:top;width:50%;text-align:center;">
+  <strong>Visual-inertial drone racing platform</strong>
+</td>
+</tr>
+<!-- Row 1: images -->
+<tr style="border:none;">
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/lidar_drone.jpg" alt="Lidar drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>Visual-inertial drone racing platform</strong><br><br>
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/vision_drone.jpeg" alt="Vision drone" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
+<!-- Row 2: captions -->
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>Lidar sensing platform (Sense Cube)</strong><br><br>
+<td style="border:none;padding:4px 8px;vertical-align:top;text-align:center;">
+  <strong>Lidar sensing platform (Sense Cube)</strong>
+</td>
+<td style="border:none;padding:4px 8px;vertical-align:top;text-align:center;">
+  <strong>Warthog UGV for off-road field navigation</strong>
+</td>
+</tr>
+<!-- Row 2: images -->
+<tr style="border:none;">
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/sense_cube.jpg" alt="Sense Cube" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>Warthog UGV for off-road field navigation</strong><br><br>
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/warthog_yzd.jpg" alt="Warthog UGV" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
+<!-- Row 3: captions -->
 <tr style="border:none;">
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>Customized drones fleet</strong><br><br>
+<td style="border:none;padding:4px 8px;vertical-align:top;text-align:center;">
+  <strong>Customized drones fleet</strong>
+</td>
+<td style="border:none;padding:4px 8px;vertical-align:top;text-align:center;">
+  <strong>UWB-Inertial tracking system</strong>
+</td>
+</tr>
+<!-- Row 3: images -->
+<tr style="border:none;">
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/drone_fleet.jpg" alt="Drone fleet" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
-<td style="border:none;padding:8px;vertical-align:top;width:50%;text-align:center;">
-  <strong>UWB-Inertial tracking system</strong><br><br>
+<td style="border:none;padding:4px 8px 20px;vertical-align:middle;text-align:center;">
   <img class="zoomable" src="/uwb_tracking_sys.jpeg" alt="UWB tracking system" style="width:100%;max-width:340px;" onclick="openLightbox(this.src, this.alt)">
 </td>
 </tr>
