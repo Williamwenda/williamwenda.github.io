@@ -15,7 +15,7 @@ title: Teaching
 - **Undergraduate EngSci Thesis Supervision** (2023) <br>
   Multi-Quadrotor Cooperative Flight with UWB-aided Relative State Estimation and Control. ([video][relative_loc]) <br>
   [Xinyuan Sam Qiao][Sam_linkedin], EngSci 2T2 Robotics Option. <br>
-  M.A.Sc. student (2023) under Professor [Timothy D. Barfoot][Tim_link].
+  Machine Learning Engineer at [Apple][Apple_link].
 
 ### Teaching Assistant
 
@@ -26,5 +26,6 @@ title: Teaching
 [Sam_linkedin]: https://www.linkedin.com/in/xinyuan-sam-qiao-8b15ba17a/?originalSubdomain=ca
 [asrl_link]: https://asrl.utias.utoronto.ca/
 [Tim_link]: http://asrl.utias.utoronto.ca/~tdb/
+[Apple_link]: https://www.apple.com/
 [aer1217]: https://www.utias.utoronto.ca/graduate-students/course-descriptions/
 [relative_loc]: https://youtu.be/7EYpe-nck58
