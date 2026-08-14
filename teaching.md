@@ -10,7 +10,7 @@ title: Teaching
 - **Master of Applied Science (MASc) Supervision** (2025) <br>
   Efficient Doppler Lidar Localization for Robust Autonomous Navigation. <br>
   [Katya M Papais][katya_g_scholar], MASc, University of Toronto. <br>
-  Research Assistant (2026) at [ASRL][asrl_link] under Professor [Timothy D. Barfoot][Tim_link].
+  Research Assistant at [ASRL][asrl_link] under Professor [Timothy D. Barfoot][Tim_link].
 
 - **Undergraduate EngSci Thesis Supervision** (2023) <br>
   Multi-Quadrotor Cooperative Flight with UWB-aided Relative State Estimation and Control. ([video][relative_loc]) <br>
